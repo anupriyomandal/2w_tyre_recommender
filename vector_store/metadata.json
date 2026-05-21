@@ -2,156 +2,3950 @@
   {
     "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
     "chunk_index": 0,
-    "text": "﻿category,vehicle-brand,vehicle-model,vehicle-variant,type,recommended-sku,sku-desc.,upsize-sku,alternate-sku1,alternate-sku2,alternate-sku3,,\nMotorcycle,Bajaj,Vikrant,V12,Front,100227,2.75-18 SECURA ZOOM F TT 42P,,100226,103202,105762,,\nMotorcycle,Bajaj,Wind,125 cc,Front,100227,2.75-18 SECURA ZOOM F TT 42P,,100226,103202,105762,,\nMotorcycle,Hero,Ambition,135 cc,Front,100227,2.75-18 SECURA ZOOM F TT 42P,,100226,103202,105762,,\nMotorcycle,Hero,CD,100cc,Front,100227,2.75-18 SECURA ZOOM F TT 42P,,100226,103202,105762,,\nMotorcycle,Hero,CD,Dawn 100 cc,Front,100227,2.75-18 SECURA ZOOM F TT 42P,,100226,103202,105762,,\nMotorcycle,Hero,Glamour,125 cc,Front,100227,2.75-18 SECURA ZOOM F TT 42P,,100226,103202,105762,,\nMotorcycle,Hero,Passion,100 cc,Front,100227,2.75-18 SECURA ZOOM F TT 42P,,100226,103202,105762,,\nMotorcycle,Hero,Splendor,Splendor 100 cc,Front,100227,2.75-18 SECURA ZOOM F TT 42P,,100226,103202,105762,,\nMotorcycle,Hero,HF Deluxe,100 cc,Front,100227,2.75-18 SECURA ZOOM F TT 42P,,1002"
+    "text": "Bajaj Vikrant V12\nFront Tyre — SKU 100227: 2.75-18 SECURA ZOOM F TT 42P | Alt SKUs: 100226, 103202, 105762",
+    "category": "Motorcycle",
+    "brand": "Bajaj",
+    "model": "Vikrant",
+    "variant": "V12",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 100227,
+        "sku_desc": "2.75-18 SECURA ZOOM F TT 42P",
+        "alt_skus": [
+          100226,
+          103202,
+          105762
+        ]
+      }
+    ]
   },
   {
     "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
     "chunk_index": 1,
-    "text": "202,105762,,\nMotorcycle,Hero,Splendor,Splendor 100 cc,Front,100227,2.75-18 SECURA ZOOM F TT 42P,,100226,103202,105762,,\nMotorcycle,Hero,HF Deluxe,100 cc,Front,100227,2.75-18 SECURA ZOOM F TT 42P,,100226,103202,105762,,\nMotorcycle,Honda,Unicorn,150 cc,Front,100227,2.75-18 SECURA ZOOM F TT 42P,,100226,103202,105762,,\nMotorcycle,Yamaha,Alba,100 cc,Front,100227,2.75-18 SECURA ZOOM F TT 42P,,100226,103202,105762,,\nMotorcycle,Yamaha,Crux R,100 cc,Front,100227,2.75-18 SECURA ZOOM F TT 42P,,100226,103202,105762,,\nMotorcycle,Yamaha,Enticer,125 cc,Front,100227,2.75-18 SECURA ZOOM F TT 42P,,100226,103202,105762,,\nMotorcycle,Yamaha,G5,150 cc,Front,100227,2.75-18 SECURA ZOOM F TT 42P,,100226,103202,105762,,\nMotorcycle,Yamaha,Gladiator,125 cc,Front,100227,2.75-18 SECURA ZOOM F TT 42P,,100226,103202,105762,,\nMotorcycle,Yamaha,YBR,YBR,Front,100227,2.75-18 SECURA ZOOM F TT 42P,,100226,103202,105762,,\nMotorcycle,Mahindra,Centuro,100 cc,Front,100227,2.75-18 SECURA ZOOM F TT 42P,,100226,103202,105762,,\nMo"
+    "text": "Bajaj Wind 125 cc\nFront Tyre — SKU 100227: 2.75-18 SECURA ZOOM F TT 42P | Alt SKUs: 100226, 103202, 105762\nRear Tyre — SKU 113310: 3.00-18 GRIPP X5 TT 52P | Alt SKUs: 102974, 101494, 105765",
+    "category": "Motorcycle",
+    "brand": "Bajaj",
+    "model": "Wind",
+    "variant": "125 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 100227,
+        "sku_desc": "2.75-18 SECURA ZOOM F TT 42P",
+        "alt_skus": [
+          100226,
+          103202,
+          105762
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113310,
+        "sku_desc": "3.00-18 GRIPP X5 TT 52P",
+        "alt_skus": [
+          102974,
+          101494,
+          105765
+        ]
+      }
+    ]
   },
   {
     "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
     "chunk_index": 2,
-    "text": "62,,\nMotorcycle,Yamaha,YBR,YBR,Front,100227,2.75-18 SECURA ZOOM F TT 42P,,100226,103202,105762,,\nMotorcycle,Mahindra,Centuro,100 cc,Front,100227,2.75-18 SECURA ZOOM F TT 42P,,100226,103202,105762,,\nMotorcycle,Mahindra,PANTERO,100 cc,Front,100227,2.75-18 SECURA ZOOM F TT 42P,,100226,103202,105762,,\nMotorcycle,Mahindra,Stallion,100 cc,Front,100227,2.75-18 SECURA ZOOM F TT 42P,,100226,103202,105762,,\nMotorcycle,Suzuki,GS 150,150 cc,Front,100227,2.75-18 SECURA ZOOM F TT 42P,,100226,103202,105762,,\nMotorcycle,Suzuki,Heat,125 cc,Front,100227,2.75-18 SECURA ZOOM F TT 42P,,100226,103202,105762,,\nMotorcycle,Suzuki,Sling Shot,125 cc,Front,100227,2.75-18 SECURA ZOOM F TT 42P,,100226,103202,105762,,\nMotorcycle,Suzuki,Zeus,125 cc,Front,100227,2.75-18 SECURA ZOOM F TT 42P,,100226,103202,105762,,\nMotorcycle,TVS,Radeon,110 cc,Front,100227,2.75-18 SECURA ZOOM F TT 42P,,100226,103202,105762,,\nMotorcycle,Bajaj,Boxer,100 cc,Front,100523,2.75-17 SECURA ZOOM F TT 41P,,100670,105766,,,\nMotorcycle,Bajaj,CT,10"
+    "text": "Hero Ambition 135 cc\nFront Tyre — SKU 100227: 2.75-18 SECURA ZOOM F TT 42P | Alt SKUs: 100226, 103202, 105762\nRear Tyre — SKU 113310: 3.00-18 GRIPP X5 TT 52P | Alt SKUs: 102974, 101494, 105765",
+    "category": "Motorcycle",
+    "brand": "Hero",
+    "model": "Ambition",
+    "variant": "135 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 100227,
+        "sku_desc": "2.75-18 SECURA ZOOM F TT 42P",
+        "alt_skus": [
+          100226,
+          103202,
+          105762
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113310,
+        "sku_desc": "3.00-18 GRIPP X5 TT 52P",
+        "alt_skus": [
+          102974,
+          101494,
+          105765
+        ]
+      }
+    ]
   },
   {
     "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
     "chunk_index": 3,
-    "text": "cle,TVS,Radeon,110 cc,Front,100227,2.75-18 SECURA ZOOM F TT 42P,,100226,103202,105762,,\nMotorcycle,Bajaj,Boxer,100 cc,Front,100523,2.75-17 SECURA ZOOM F TT 41P,,100670,105766,,,\nMotorcycle,Bajaj,CT,100 cc,Front,100523,2.75-17 SECURA ZOOM F TT 41P,,100670,105766,,,\nMotorcycle,Bajaj,CT,110 cc,Front,100523,2.75-17 SECURA ZOOM F TT 41P,,100670,105766,,,\nMotorcycle,Bajaj,Platina,100 cc,Front,100523,2.75-17 SECURA ZOOM F TT 41P,,100670,105766,,,\nMotorcycle,Bajaj,Discover,110 cc,Front,100523,2.75-17 SECURA ZOOM F TT 41P,,100670,105766,,,\nMotorcycle,Bajaj,Discover,125 cc,Front,100523,2.75-17 SECURA ZOOM F TT 41P,,100670,105766,,,\nMotorcycle,Bajaj,Pulsar,135 cc,Front,100523,2.75-17 SECURA ZOOM F TT 41P,,100670,105766,,,\nMotorcycle,Bajaj,XCD,100 cc,Front,100523,2.75-17 SECURA ZOOM F TT 41P,,100670,105766,,,\nMotorcycle,Yamaha,SZ RR,150 cc,Front,100523,2.75-17 SECURA ZOOM F TT 41P,,100670,105766,,,\nMotorcycle,Yamaha,Saluto RX,110 cc,Front,100523,2.75-17 SECURA ZOOM F TT 41P,,100670,105766,,,\nMotor"
+    "text": "Hero CD 100cc\nFront Tyre — SKU 100227: 2.75-18 SECURA ZOOM F TT 42P | Alt SKUs: 100226, 103202, 105762\nRear Tyre — SKU 113269: 2.75-18 GRIPP X5 TT 48P | Alt SKUs: 102976, 101672, 105763",
+    "category": "Motorcycle",
+    "brand": "Hero",
+    "model": "CD",
+    "variant": "100cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 100227,
+        "sku_desc": "2.75-18 SECURA ZOOM F TT 42P",
+        "alt_skus": [
+          100226,
+          103202,
+          105762
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113269,
+        "sku_desc": "2.75-18 GRIPP X5 TT 48P",
+        "alt_skus": [
+          102976,
+          101672,
+          105763
+        ]
+      }
+    ]
   },
   {
     "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
     "chunk_index": 4,
-    "text": "05766,,,\nMotorcycle,Yamaha,SZ RR,150 cc,Front,100523,2.75-17 SECURA ZOOM F TT 41P,,100670,105766,,,\nMotorcycle,Yamaha,Saluto RX,110 cc,Front,100523,2.75-17 SECURA ZOOM F TT 41P,,100670,105766,,,\nMotorcycle,TVS,Flame,135 cc,Front,100523,2.75-17 SECURA ZOOM F TT 41P,,100670,105766,,,\nMotorcycle,TVS,Jive,125 cc,Front,100523,2.75-17 SECURA ZOOM F TT 41P,,100670,105766,,,\nMotorcycle,TVS,MAX 1,100 cc,Front,100523,2.75-17 SECURA ZOOM F TT 41P,,100670,105766,,,\nMotorcycle,TVS,Star City,110 cc,Front,100523,2.75-17 SECURA ZOOM F TT 41P,,100670,105766,,,\nMotorcycle,TVS,Phoenix,125 cc,Front,100523,2.75-17 SECURA ZOOM F TT 41P,,100670,105766,,,\nMotorcycle,TVS,Sport,100 cc,Front,100523,2.75-17 SECURA ZOOM F TT 41P,,100670,105766,,,\nMotorcycle,TVS,Victor,125 cc,Front,100523,2.75-17 SECURA ZOOM F TT 41P,,100670,105766,,,\nMotorcycle,Royal Enfield,Bullet Standard,350 cc,Front,100529,3.25-19 SECURA F67  TT 54P,,,,,,\nMotorcycle,Royal Enfield,Bullet Electra,350 cc,Front,100529,3.25-19 SECURA F67  TT 54P,,,"
+    "text": "Hero CD Dawn 100 cc\nFront Tyre — SKU 100227: 2.75-18 SECURA ZOOM F TT 42P | Alt SKUs: 100226, 103202, 105762\nRear Tyre — SKU 113269: 2.75-18 GRIPP X5 TT 48P | Alt SKUs: 102976, 101672, 105763",
+    "category": "Motorcycle",
+    "brand": "Hero",
+    "model": "CD",
+    "variant": "Dawn 100 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 100227,
+        "sku_desc": "2.75-18 SECURA ZOOM F TT 42P",
+        "alt_skus": [
+          100226,
+          103202,
+          105762
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113269,
+        "sku_desc": "2.75-18 GRIPP X5 TT 48P",
+        "alt_skus": [
+          102976,
+          101672,
+          105763
+        ]
+      }
+    ]
   },
   {
     "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
     "chunk_index": 5,
-    "text": "100670,105766,,,\nMotorcycle,Royal Enfield,Bullet Standard,350 cc,Front,100529,3.25-19 SECURA F67  TT 54P,,,,,,\nMotorcycle,Royal Enfield,Bullet Electra,350 cc,Front,100529,3.25-19 SECURA F67  TT 54P,,,,,,\nMotorcycle,TVS,XL Super,70 cc,Front,101859,2.50-16 SECURA F85  TT 41L,,,,,,\nMotorcycle,Hero,Achiever,150 cc,Front,101922,80/100-18 SECURA ZOOM F  TL 47P,,102572,105740,,,\nMotorcycle,Hero,CBZ Xtreme,150 cc,Front,101922,80/100-18 SECURA ZOOM F  TL 47P,,102572,105740,,,\nMotorcycle,Hero,Glamour,125 cc,Front,101922,80/100-18 SECURA ZOOM F  TL 47P,,102572,105740,,,\nMotorcycle,Hero,Hunk,150 cc,Front,101922,80/100-18 SECURA ZOOM F  TL 47P,,102572,105740,,,\nMotorcycle,Hero,Karizma,200 cc,Front,101922,80/100-18 SECURA ZOOM F  TL 47P,,102572,105740,,,\nMotorcycle,Hero,Splendor,Splendor +,Front,101922,80/100-18 SECURA ZOOM F  TL 47P,,102572,105740,,,\nMotorcycle,Hero,Splendor,Splendor I Smart 125 cc,Front,101922,80/100-18 SECURA ZOOM F  TL 47P,,102572,105740,,,\nMotorcycle,Hero,Passion,Passion Pro 11"
+    "text": "Hero Glamour 125 cc\nFront Tyre — SKU 100227: 2.75-18 SECURA ZOOM F TT 42P | Alt SKUs: 100226, 103202, 105762\nFront Tyre — SKU 101922: 80/100-18 SECURA ZOOM F  TL 47P | Alt SKUs: 102572, 105740\nRear Tyre — SKU 113267: 80/100-18 GRIPP X5 TL 54P | Alt SKUs: 101957, 103065, 105761, 106500, 102573\nRear Tyre — SKU 113310: 3.00-18 GRIPP X5 TT 52P | Alt SKUs: 102974, 101494, 105765",
+    "category": "Motorcycle",
+    "brand": "Hero",
+    "model": "Glamour",
+    "variant": "125 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 100227,
+        "sku_desc": "2.75-18 SECURA ZOOM F TT 42P",
+        "alt_skus": [
+          100226,
+          103202,
+          105762
+        ]
+      },
+      {
+        "type": "Front",
+        "recommended_sku": 101922,
+        "sku_desc": "80/100-18 SECURA ZOOM F  TL 47P",
+        "alt_skus": [
+          102572,
+          105740
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113267,
+        "sku_desc": "80/100-18 GRIPP X5 TL 54P",
+        "alt_skus": [
+          101957,
+          103065,
+          105761,
+          106500,
+          102573
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113310,
+        "sku_desc": "3.00-18 GRIPP X5 TT 52P",
+        "alt_skus": [
+          102974,
+          101494,
+          105765
+        ]
+      }
+    ]
   },
   {
     "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
     "chunk_index": 6,
-    "text": "80/100-18 SECURA ZOOM F  TL 47P,,102572,105740,,,\nMotorcycle,Hero,Splendor,Splendor I Smart 125 cc,Front,101922,80/100-18 SECURA ZOOM F  TL 47P,,102572,105740,,,\nMotorcycle,Hero,Passion,Passion Pro 110 cc,Front,101922,80/100-18 SECURA ZOOM F  TL 47P,,102572,105740,,,\nMotorcycle,Honda,Dream,110 cc,Front,101922,80/100-18 SECURA ZOOM F  TL 47P,,102572,105740,,,\nMotorcycle,Honda,Shine,125 cc,Front,101922,80/100-18 SECURA ZOOM F  TL 47P,,102572,105740,,,\nMotorcycle,Honda,Livo,110 cc,Front,101922,80/100-18 SECURA ZOOM F  TL 47P,,102572,105740,,,\nMotorcycle,Honda,Unicorn,150 cc,Front,101922,80/100-18 SECURA ZOOM F  TL 47P,,102572,105740,,,\nMotorcycle,Yamaha,Saluto,125 cc,Front,101922,80/100-18 SECURA ZOOM F  TL 47P,,102572,105740,,,\nMotorcycle,Royal Enfield,Bullet Standard,350 cc,Rear,101959,3.50-19 MILAZE  TT 63P,,100236,,,,\nMotorcycle,Royal Enfield,Bullet Electra,350 cc,Rear,101959,3.50-19 MILAZE  TT 63P,,100236,,,,\nMotorcycle,TVS,XL Super,70 cc,Rear,101962,2.50-16 MILAZE  TT 41L,,100222,,,"
+    "text": "Hero Passion 100 cc\nFront Tyre — SKU 100227: 2.75-18 SECURA ZOOM F TT 42P | Alt SKUs: 100226, 103202, 105762\nRear Tyre — SKU 113310: 3.00-18 GRIPP X5 TT 52P | Alt SKUs: 102974, 101494, 105765",
+    "category": "Motorcycle",
+    "brand": "Hero",
+    "model": "Passion",
+    "variant": "100 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 100227,
+        "sku_desc": "2.75-18 SECURA ZOOM F TT 42P",
+        "alt_skus": [
+          100226,
+          103202,
+          105762
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113310,
+        "sku_desc": "3.00-18 GRIPP X5 TT 52P",
+        "alt_skus": [
+          102974,
+          101494,
+          105765
+        ]
+      }
+    ]
   },
   {
     "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
     "chunk_index": 7,
-    "text": "-19 MILAZE  TT 63P,,100236,,,,\nMotorcycle,Royal Enfield,Bullet Electra,350 cc,Rear,101959,3.50-19 MILAZE  TT 63P,,100236,,,,\nMotorcycle,TVS,XL Super,70 cc,Rear,101962,2.50-16 MILAZE  TT 41L,,100222,,,,\nMotorcycle,Bajaj,Platina,110 cc,Rear,102442,80/100-17 ZOOM XL  TL 53P,,,,,,\nMotorcycle,Suzuki,Hayate,100 cc,Rear,102442,80/100-17 ZOOM XL  TL 53P,,,,,,\nMotorcycle,Bajaj,Pulsar,AS 160 cc,Rear,102453,110/80-17 ZOOM XL TL 57P,,106385,,,,\nMotorcycle,Bajaj,Pulsar,NS 160 cc,Rear,102453,110/80-17 ZOOM XL TL 57P,,106385,,,,\nMotorcycle,Honda,CB Twister,125 cc,Rear,102453,110/80-17 ZOOM XL TL 57P,,106385,,,,\nMotorcycle,Honda,Trigger,100 cc,Rear,102453,110/80-17 ZOOM XL TL 57P,,106385,,,,\nMotorcycle,Honda,Unicorn,160 cc,Rear,102453,110/80-17 ZOOM XL TL 57P,,106385,,,,\nMotorcycle,TVS,Apache,160 cc,Rear,102453,110/80-17 ZOOM XL TL 57P,,106385,,,,\nMotorcycle,TVS,Apache,180 cc,Rear,102453,110/80-17 ZOOM XL TL 57P,,106385,,,,\nMotorcycle,Hero,Impulse,150 cc,Front,103033,90/90-19 ZOOM PLUS F  TT 52P,,,,,,"
+    "text": "Hero Splendor Splendor 100 cc\nFront Tyre — SKU 100227: 2.75-18 SECURA ZOOM F TT 42P | Alt SKUs: 100226, 103202, 105762\nRear Tyre — SKU 113269: 2.75-18 GRIPP X5 TT 48P | Alt SKUs: 102976, 101672, 105763",
+    "category": "Motorcycle",
+    "brand": "Hero",
+    "model": "Splendor",
+    "variant": "Splendor 100 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 100227,
+        "sku_desc": "2.75-18 SECURA ZOOM F TT 42P",
+        "alt_skus": [
+          100226,
+          103202,
+          105762
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113269,
+        "sku_desc": "2.75-18 GRIPP X5 TT 48P",
+        "alt_skus": [
+          102976,
+          101672,
+          105763
+        ]
+      }
+    ]
   },
   {
     "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
     "chunk_index": 8,
-    "text": "102453,110/80-17 ZOOM XL TL 57P,,106385,,,,\nMotorcycle,TVS,Apache,180 cc,Rear,102453,110/80-17 ZOOM XL TL 57P,,106385,,,,\nMotorcycle,Hero,Impulse,150 cc,Front,103033,90/90-19 ZOOM PLUS F  TT 52P,,,,,,\nMotorcycle,Royal Enfield,Classic,350 cc,Front,103033,90/90-19 ZOOM PLUS F  TT 52P,,102322,,,,\nMotorcycle,Royal Enfield,Thunderbird,350 cc,Front,103033,90/90-19 ZOOM PLUS F  TT 52P,,102322,,,,\nMotorcycle,Royal Enfield,Classic,500 cc,Front,103033,90/90-19 ZOOM PLUS F  TT 52P,,102322,,,,\nMotorcycle,Royal Enfield,Thunderbird,500 cc,Front,103033,90/90-19 ZOOM PLUS F  TT 52P,,102322,,,,\nMotorcycle,Bajaj,Pulsar,NS 200 cc,Rear,103061,130/70-17 ZOOM XL TL 62P,,,,,,\nMotorcycle,Bajaj,Pulsar,RS 200 cc,Rear,103061,130/70-17 ZOOM XL TL 62P,,,,,,\nMotorcycle,Honda,CBR,150 cc,Rear,103061,130/70-17 ZOOM XL TL 62P,,,,,,\nMotorcycle,Honda,Xblade,160 cc,Rear,103061,130/70-17 ZOOM XL TL 62P,,,,,,\nMotorcycle,TVS,Apache,200 cc,Rear,103061,130/70-17 ZOOM XL TL 62P,,,,,,\nMotorcycle,Hero,Xpulse,200 cc,Front,103172,9"
+    "text": "Hero HF Deluxe 100 cc\nFront Tyre — SKU 100227: 2.75-18 SECURA ZOOM F TT 42P | Alt SKUs: 100226, 103202, 105762\nRear Tyre — SKU 113269: 2.75-18 GRIPP X5 TT 48P | Alt SKUs: 102976, 101672, 105763",
+    "category": "Motorcycle",
+    "brand": "Hero",
+    "model": "HF Deluxe",
+    "variant": "100 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 100227,
+        "sku_desc": "2.75-18 SECURA ZOOM F TT 42P",
+        "alt_skus": [
+          100226,
+          103202,
+          105762
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113269,
+        "sku_desc": "2.75-18 GRIPP X5 TT 48P",
+        "alt_skus": [
+          102976,
+          101672,
+          105763
+        ]
+      }
+    ]
   },
   {
     "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
     "chunk_index": 9,
-    "text": "62P,,,,,,\nMotorcycle,Honda,Xblade,160 cc,Rear,103061,130/70-17 ZOOM XL TL 62P,,,,,,\nMotorcycle,TVS,Apache,200 cc,Rear,103061,130/70-17 ZOOM XL TL 62P,,,,,,\nMotorcycle,Hero,Xpulse,200 cc,Front,103172,90/90-21 GRIPP XL F TT 54S RE,,,,,,\nMotorcycle,Honda,AFRICA TWIN,1000 cc,Front,103172,90/90-21 GRIPP XL F TT 54S RE,,,,,,\nMotorcycle,Royal Enfield,Himalayan,411 cc,Front,103172,90/90-21 GRIPP XL F TT 54S RE,,,,,,\nMotorcycle,Bajaj,Pulsar,NS 200 cc,Front,103742,100/80-17 ZOOM PLUS F TL 52P SZ,,102502,106502,,,\nMotorcycle,Bajaj,Pulsar,RS 200 cc,Front,103742,100/80-17 ZOOM PLUS F TL 52P SZ,,102502,106502,,,\nMotorcycle,Hero,Xtreme,200 cc,Front,103742,100/80-17 ZOOM PLUS F TL 52P SZ,,106502,,,,\nMotorcycle,Hero,Xpulse,200T,Front,103742,100/80-17 ZOOM PLUS F TL 52P SZ,,106502,,,,\nMotorcycle,Honda,Hornet,160R,Front,103742,100/80-17 ZOOM PLUS F TL 52P SZ,,106502,,,,\nMotorcycle,Yamaha,FZ 16,150 cc,Front,103742,100/80-17 ZOOM PLUS F TL 52P SZ,,106502,,,,\nMotorcycle,Yamaha,Fazer,150 cc,Front,103742,100/"
+    "text": "Honda Unicorn 150 cc\nFront Tyre — SKU 100227: 2.75-18 SECURA ZOOM F TT 42P | Alt SKUs: 100226, 103202, 105762\nFront Tyre — SKU 101922: 80/100-18 SECURA ZOOM F  TL 47P | Alt SKUs: 102572, 105740\nRear Tyre — SKU 113265: 100/90-18 GRIPP X5 TL 56P | Alt SKUs: 106384, 101961, 106762, 106763\nRear Tyre — SKU 113265: 100/90-18 GRIPP X5 TL 56P | Alt SKUs: 106384, 101961, 106762, 106763",
+    "category": "Motorcycle",
+    "brand": "Honda",
+    "model": "Unicorn",
+    "variant": "150 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 100227,
+        "sku_desc": "2.75-18 SECURA ZOOM F TT 42P",
+        "alt_skus": [
+          100226,
+          103202,
+          105762
+        ]
+      },
+      {
+        "type": "Front",
+        "recommended_sku": 101922,
+        "sku_desc": "80/100-18 SECURA ZOOM F  TL 47P",
+        "alt_skus": [
+          102572,
+          105740
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113265,
+        "sku_desc": "100/90-18 GRIPP X5 TL 56P",
+        "alt_skus": [
+          106384,
+          101961,
+          106762,
+          106763
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113265,
+        "sku_desc": "100/90-18 GRIPP X5 TL 56P",
+        "alt_skus": [
+          106384,
+          101961,
+          106762,
+          106763
+        ]
+      }
+    ]
   },
   {
     "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
     "chunk_index": 10,
-    "text": "t,160R,Front,103742,100/80-17 ZOOM PLUS F TL 52P SZ,,106502,,,,\nMotorcycle,Yamaha,FZ 16,150 cc,Front,103742,100/80-17 ZOOM PLUS F TL 52P SZ,,106502,,,,\nMotorcycle,Yamaha,Fazer,150 cc,Front,103742,100/80-17 ZOOM PLUS F TL 52P SZ,,106502,,,,\nMotorcycle,Yamaha,FZ25,250 cc,Front,103742,100/80-17 ZOOM PLUS F TL 52P SZ,,106502,,,,\nMotorcycle,Yamaha,MT15,MT15,Front,103742,100/80-17 ZOOM PLUS F TL 52P SZ,,106502,,,,\nMotorcycle,Yamaha,R15,155 cc,Front,103742,100/80-17 ZOOM PLUS F TL 52P SZ,,106502,,,,\nMotorcycle,Suzuki,Gixxer,155 cc,Front,103742,100/80-17 ZOOM PLUS F TL 52P SZ,,106502,,,,\nMotorcycle,Suzuki,Intruder,155 cc,Front,103742,100/80-17 ZOOM PLUS F TL 52P SZ,,106502,,,,\nMotorcycle,Bajaj,KTM Duke,200 cc,Rear,113496,150/60ZR17 SPORTRAD TL 66W,,104974,,,,\nMotorcycle,Bajaj,KTM Duke,250 cc,Rear,113496,150/60ZR17 SPORTRAD TL 66W,,104974,,,,\nMotorcycle,Bajaj,KTM Duke,390 cc,Rear,113496,150/60ZR17 SPORTRAD TL 66W,,104974,,,,\nMotorcycle,Bajaj,KTM Duke,125 cc,Rear,113496,150/60ZR17 SPORTRAD TL 66"
+    "text": "Yamaha Alba 100 cc\nFront Tyre — SKU 100227: 2.75-18 SECURA ZOOM F TT 42P | Alt SKUs: 100226, 103202, 105762\nRear Tyre — SKU 113310: 3.00-18 GRIPP X5 TT 52P | Alt SKUs: 102974, 101494, 105765",
+    "category": "Motorcycle",
+    "brand": "Yamaha",
+    "model": "Alba",
+    "variant": "100 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 100227,
+        "sku_desc": "2.75-18 SECURA ZOOM F TT 42P",
+        "alt_skus": [
+          100226,
+          103202,
+          105762
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113310,
+        "sku_desc": "3.00-18 GRIPP X5 TT 52P",
+        "alt_skus": [
+          102974,
+          101494,
+          105765
+        ]
+      }
+    ]
   },
   {
     "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
     "chunk_index": 11,
-    "text": "113496,150/60ZR17 SPORTRAD TL 66W,,104974,,,,\nMotorcycle,Bajaj,KTM Duke,390 cc,Rear,113496,150/60ZR17 SPORTRAD TL 66W,,104974,,,,\nMotorcycle,Bajaj,KTM Duke,125 cc,Rear,113496,150/60ZR17 SPORTRAD TL 66W,,104974,,,,\nMotorcycle,Bajaj,Dominar,400 cc,Rear,113496,150/60ZR17 SPORTRAD TL 66W,,104974,,,,\nMotorcycle,Honda,CBR,300R,Rear,113496,150/60ZR17 SPORTRAD TL 66W,,104974,,,,\nMotorcycle,Kawasaki,Ninja,400 cc,Rear,113496,150/60ZR17 SPORTRAD TL 66W,,104974,,,,\nMotorcycle,Mahindra,Mojo,300 cc,Rear,113496,150/60ZR17 SPORTRAD TL 66W,,104974,,,,\nMotorcycle,Suzuki,Gixxer,250 cc,Rear,113496,150/60ZR17 SPORTRAD TL 66W,,104974,,,,\nMotorcycle,TVS,Apache,RR 310,Rear,113496,150/60ZR17 SPORTRAD TL 66W,,104974,,,,\nMotorcycle,Bajaj,KTM RC,200 cc,Rear,113496,150/60ZR17 SPORTRAD TL 66W,,104974,,,,\nMotorcycle,Bajaj,KTM RC,250 cc,Rear,113496,150/60ZR17 SPORTRAD TL 66W,,104974,,,,\nMotorcycle,Bajaj,KTM RC,390 cc,Rear,113496,150/60ZR17 SPORTRAD TL 66W,,104974,,,,\nMotorcycle,Bajaj,KTM RC,125 cc,Rear,113496,150/60Z"
+    "text": "Yamaha Crux R 100 cc\nFront Tyre — SKU 100227: 2.75-18 SECURA ZOOM F TT 42P | Alt SKUs: 100226, 103202, 105762\nRear Tyre — SKU 113310: 3.00-18 GRIPP X5 TT 52P | Alt SKUs: 102974, 101494, 105765",
+    "category": "Motorcycle",
+    "brand": "Yamaha",
+    "model": "Crux R",
+    "variant": "100 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 100227,
+        "sku_desc": "2.75-18 SECURA ZOOM F TT 42P",
+        "alt_skus": [
+          100226,
+          103202,
+          105762
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113310,
+        "sku_desc": "3.00-18 GRIPP X5 TT 52P",
+        "alt_skus": [
+          102974,
+          101494,
+          105765
+        ]
+      }
+    ]
   },
   {
     "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
     "chunk_index": 12,
-    "text": "aj,KTM RC,250 cc,Rear,113496,150/60ZR17 SPORTRAD TL 66W,,104974,,,,\nMotorcycle,Bajaj,KTM RC,390 cc,Rear,113496,150/60ZR17 SPORTRAD TL 66W,,104974,,,,\nMotorcycle,Bajaj,KTM RC,125 cc,Rear,113496,150/60ZR17 SPORTRAD TL 66W,,104974,,,,\nMotorcycle,Bajaj,Dominar,250 cc,Rear,113496,150/60ZR17 SPORTRAD TL 66W,,104974,,,,\nMotorcycle,Hero,Xtreme,200 cc,Rear,104975,130/70R17 ZOOM RAD TL 62H,,,,,,\nMotorcycle,Hero,Xpulse,200T,Rear,104975,130/70R17 ZOOM RAD TL 62H,,,,,,\nMotorcycle,Yamaha,YZF R15,150 cc,Rear,104975,130/70R17 ZOOM RAD TL 62H,,,,,,\nMotorcycle,Bajaj,KTM Duke,200 cc,Front,113494,110/70ZR17 SPORTRAD TL 54W,,104976,,,,\nMotorcycle,Bajaj,KTM Duke,250 cc,Front,113494,110/70ZR17 SPORTRAD TL 54W,,104976,,,,\nMotorcycle,Bajaj,KTM Duke,390 cc,Front,113494,110/70ZR17 SPORTRAD TL 54W,,104976,,,,\nMotorcycle,Bajaj,KTM Duke,125 cc,Front,113494,110/70ZR17 SPORTRAD TL 54W,,104976,,,,\nMotorcycle,Bajaj,Dominar,400 cc,Front,113494,110/70ZR17 SPORTRAD TL 54W,,104976,,,,\nMotorcycle,Honda,CBR,300R,Front,113494"
+    "text": "Yamaha Enticer 125 cc\nFront Tyre — SKU 100227: 2.75-18 SECURA ZOOM F TT 42P | Alt SKUs: 100226, 103202, 105762\nRear Tyre — SKU 113269: 2.75-18 GRIPP X5 TT 48P | Alt SKUs: 102976, 101672, 105763",
+    "category": "Motorcycle",
+    "brand": "Yamaha",
+    "model": "Enticer",
+    "variant": "125 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 100227,
+        "sku_desc": "2.75-18 SECURA ZOOM F TT 42P",
+        "alt_skus": [
+          100226,
+          103202,
+          105762
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113269,
+        "sku_desc": "2.75-18 GRIPP X5 TT 48P",
+        "alt_skus": [
+          102976,
+          101672,
+          105763
+        ]
+      }
+    ]
   },
   {
     "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
     "chunk_index": 13,
-    "text": "cle,Bajaj,KTM Duke,125 cc,Front,113494,110/70ZR17 SPORTRAD TL 54W,,104976,,,,\nMotorcycle,Bajaj,Dominar,400 cc,Front,113494,110/70ZR17 SPORTRAD TL 54W,,104976,,,,\nMotorcycle,Honda,CBR,300R,Front,113494,110/70ZR17 SPORTRAD TL 54W,,104976,,,,\nMotorcycle,Yamaha,YZF R3,YZF R3,Front,113494,110/70ZR17 SPORTRAD TL 54W,,104976,,,,\nMotorcycle,Kawasaki,Ninja,300 cc,Front,113494,110/70ZR17 SPORTRAD TL 54W,,104976,,,,\nMotorcycle,Kawasaki,Ninja,400 cc,Front,113494,110/70ZR17 SPORTRAD TL 54W,,104976,,,,\nMotorcycle,Mahindra,Mojo,300 cc,Front,113494,110/70ZR17 SPORTRAD TL 54W,,104976,,,,\nMotorcycle,Suzuki,Gixxer,250 cc,Front,113494,110/70ZR17 SPORTRAD TL 54W,,104976,,,,\nMotorcycle,TVS,Apache,RR 310,Front,113494,110/70ZR17 SPORTRAD TL 54W,,104976,,,,\nMotorcycle,Bajaj,KTM RC,200 cc,Front,113494,110/70ZR17 SPORTRAD TL 54W,,104976,,,,\nMotorcycle,Bajaj,KTM RC,250 cc,Front,113494,110/70ZR17 SPORTRAD TL 54W,,104976,,,,\nMotorcycle,Bajaj,KTM RC,390 cc,Front,113494,110/70ZR17 SPORTRAD TL 54W,,104976,,,,\nMotorcyc"
+    "text": "Yamaha G5 150 cc\nFront Tyre — SKU 100227: 2.75-18 SECURA ZOOM F TT 42P | Alt SKUs: 100226, 103202, 105762\nRear Tyre — SKU 113310: 3.00-18 GRIPP X5 TT 52P | Alt SKUs: 102974, 101494, 105765",
+    "category": "Motorcycle",
+    "brand": "Yamaha",
+    "model": "G5",
+    "variant": "150 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 100227,
+        "sku_desc": "2.75-18 SECURA ZOOM F TT 42P",
+        "alt_skus": [
+          100226,
+          103202,
+          105762
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113310,
+        "sku_desc": "3.00-18 GRIPP X5 TT 52P",
+        "alt_skus": [
+          102974,
+          101494,
+          105765
+        ]
+      }
+    ]
   },
   {
     "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
     "chunk_index": 14,
-    "text": "ORTRAD TL 54W,,104976,,,,\nMotorcycle,Bajaj,KTM RC,250 cc,Front,113494,110/70ZR17 SPORTRAD TL 54W,,104976,,,,\nMotorcycle,Bajaj,KTM RC,390 cc,Front,113494,110/70ZR17 SPORTRAD TL 54W,,104976,,,,\nMotorcycle,Bajaj,KTM RC,125 cc,Front,113494,110/70ZR17 SPORTRAD TL 54W,,104976,,,,\nMotorcycle,Bajaj,Dominar,250 cc,Front,113494,110/70ZR17 SPORTRAD TL 54W,,104976,,,,\nMotorcycle,Royal Enfield,Meteor,350 cc,Front,105726,100/90-19 ZOOM PLUS F TL 57 P,,,,,,\nMotorcycle,Honda,Hness,350 cc,Front,105726,100/90-19 ZOOM PLUS F TL 57 P,,,,,,\nMotorcycle,Royal Enfield,Meteor,350 cc,Rear,105808,140/70-17 ZOOM PLUS  TL 66P,,106388,101824,106361,,\nMotorcycle,Bajaj,Avenger,220 cc,Front,106073,90/90-17 ZOOM X3 F  TL 49P,,106760,,,,\nMotorcycle,Bajaj,Avenger,160 cc,Front,106073,90/90-17 ZOOM X3 F  TL 49P,,106760,,,,\nMotorcycle,Bajaj,Avenger,150 cc,Front,106073,90/90-17 ZOOM X3 F  TL 49P,,106760,,,,\nMotorcycle,Bajaj,Pulsar,150 cc Twin Disc,Front,106073,90/90-17 ZOOM X3 F  TL 49P,,106760,,,,\nMotorcycle,Bajaj,Pulsar,18"
+    "text": "Yamaha Gladiator 125 cc\nFront Tyre — SKU 100227: 2.75-18 SECURA ZOOM F TT 42P | Alt SKUs: 100226, 103202, 105762\nRear Tyre — SKU 113310: 3.00-18 GRIPP X5 TT 52P | Alt SKUs: 102974, 101494, 105765",
+    "category": "Motorcycle",
+    "brand": "Yamaha",
+    "model": "Gladiator",
+    "variant": "125 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 100227,
+        "sku_desc": "2.75-18 SECURA ZOOM F TT 42P",
+        "alt_skus": [
+          100226,
+          103202,
+          105762
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113310,
+        "sku_desc": "3.00-18 GRIPP X5 TT 52P",
+        "alt_skus": [
+          102974,
+          101494,
+          105765
+        ]
+      }
+    ]
   },
   {
     "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
     "chunk_index": 15,
-    "text": "orcycle,Bajaj,Avenger,150 cc,Front,106073,90/90-17 ZOOM X3 F  TL 49P,,106760,,,,\nMotorcycle,Bajaj,Pulsar,150 cc Twin Disc,Front,106073,90/90-17 ZOOM X3 F  TL 49P,,106760,,,,\nMotorcycle,Bajaj,Pulsar,180 cc,Front,106073,90/90-17 ZOOM X3 F  TL 49P,,106760,,,,\nMotorcycle,Bajaj,Pulsar,160 cc,Front,106073,90/90-17 ZOOM X3 F  TL 49P,,106760,,,,\nMotorcycle,Bajaj,Pulsar,220 cc,Front,106073,90/90-17 ZOOM X3 F  TL 49P,,106760,,,,\nMotorcycle,TVS,Apache,160 cc,Front,106073,90/90-17 ZOOM X3 F  TL 49P,,106760,,,,\nMotorcycle,TVS,Apache,160 cc,Front,106073,90/90-17 ZOOM X3 F  TL 49P,,106760,,,,\nMotorcycle,TVS,Apache,200 cc,Front,106073,90/90-17 ZOOM X3 F  TL 49P,,106760,,,,\nMotorcycle,TVS,Apache,RTR 160 Hyper Edge,Front,106073,90/90-17 ZOOM X3 F  TL 49P,,106760,,,,\nMotorcycle,Hero,Karizma,200 cc,Rear,106202,120/80-18 GRIPP XL TL 62P,,103035,,,,\nMotorcycle,Hero,Xpulse,200 cc,Rear,106202,120/80-18 GRIPP XL TL 62P,,103035,,,,\nMotorcycle,Royal Enfield,Classic,500 cc,Rear,106202,120/80-18 GRIPP XL TL 62P,,1"
+    "text": "Yamaha YBR YBR\nFront Tyre — SKU 100227: 2.75-18 SECURA ZOOM F TT 42P | Alt SKUs: 100226, 103202, 105762\nRear Tyre — SKU 113310: 3.00-18 GRIPP X5 TT 52P | Alt SKUs: 102974, 101494, 105765",
+    "category": "Motorcycle",
+    "brand": "Yamaha",
+    "model": "YBR",
+    "variant": "YBR",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 100227,
+        "sku_desc": "2.75-18 SECURA ZOOM F TT 42P",
+        "alt_skus": [
+          100226,
+          103202,
+          105762
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113310,
+        "sku_desc": "3.00-18 GRIPP X5 TT 52P",
+        "alt_skus": [
+          102974,
+          101494,
+          105765
+        ]
+      }
+    ]
   },
   {
     "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
     "chunk_index": 16,
-    "text": "2,120/80-18 GRIPP XL TL 62P,,103035,,,,\nMotorcycle,Hero,Xpulse,200 cc,Rear,106202,120/80-18 GRIPP XL TL 62P,,103035,,,,\nMotorcycle,Royal Enfield,Classic,500 cc,Rear,106202,120/80-18 GRIPP XL TL 62P,,103035,,,,\nMotorcycle,Royal Enfield,Thunderbird,500 cc,Rear,106202,120/80-18 GRIPP XL TL 62P,,103035,,,,\nMotorcycle,Royal Enfield,Interceptor,650 cc,Front,106205,100/90-18 ZOOM CRUZ F TT 56H,,106360,,,,\nMotorcycle,Royal Enfield,Continental GT,650 cc,Front,106205,100/90-18 ZOOM CRUZ F TT 56H,,106360,,,,\nMotorcycle,Royal Enfield,Interceptor,650 cc,Rear,106206,130/70-18 ZOOM CRUZ TT 63H,,,,,,\nMotorcycle,Royal Enfield,Continental GT,650 cc,Rear,106206,130/70-18 ZOOM CRUZ TT 63H,,,,,,\nMotorcycle,Bajaj,Platina,110 cc,Front,106207,80/100-17 ZOOM X3 F TL 46P,,105169,106501,106517,,\nMotorcycle,Bajaj,Discover,150 cc,Front,106207,80/100-17 ZOOM X3 F TL 46P,,105169,106501,106517,,\nMotorcycle,Bajaj,Pulsar,125 cc,Front,106207,80/100-17 ZOOM X3 F TL 46P,,105169,106501,106517,,\nMotorcycle,Bajaj,Pulsar,150"
+    "text": "Mahindra Centuro 100 cc\nFront Tyre — SKU 100227: 2.75-18 SECURA ZOOM F TT 42P | Alt SKUs: 100226, 103202, 105762\nRear Tyre — SKU 113310: 3.00-18 GRIPP X5 TT 52P | Alt SKUs: 102974, 101494, 105765",
+    "category": "Motorcycle",
+    "brand": "Mahindra",
+    "model": "Centuro",
+    "variant": "100 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 100227,
+        "sku_desc": "2.75-18 SECURA ZOOM F TT 42P",
+        "alt_skus": [
+          100226,
+          103202,
+          105762
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113310,
+        "sku_desc": "3.00-18 GRIPP X5 TT 52P",
+        "alt_skus": [
+          102974,
+          101494,
+          105765
+        ]
+      }
+    ]
   },
   {
     "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
     "chunk_index": 17,
-    "text": "cover,150 cc,Front,106207,80/100-17 ZOOM X3 F TL 46P,,105169,106501,106517,,\nMotorcycle,Bajaj,Pulsar,125 cc,Front,106207,80/100-17 ZOOM X3 F TL 46P,,105169,106501,106517,,\nMotorcycle,Bajaj,Pulsar,150 cc,Front,106207,80/100-17 ZOOM X3 F TL 46P,,105169,106501,106517,,\nMotorcycle,Bajaj,Pulsar,AS 160 cc,Front,106207,80/100-17 ZOOM X3 F TL 46P,,105169,106501,106517,,\nMotorcycle,Bajaj,Pulsar,NS 160 cc,Front,106207,80/100-17 ZOOM X3 F TL 46P,,105169,106501,106517,,\nMotorcycle,Hero,Ignitor,125 cc,Front,106207,80/100-17 ZOOM X3 F TL 46P,,105169,106501,106517,,\nMotorcycle,Honda,CBF Stunner,125 cc,Front,106207,80/100-17 ZOOM X3 F TL 46P,,105169,106501,106517,,\nMotorcycle,Honda,CB Twister,125 cc,Front,106207,80/100-17 ZOOM X3 F TL 46P,,105169,106501,106517,,\nMotorcycle,Honda,Trigger,100 cc,Front,106207,80/100-17 ZOOM X3 F TL 46P,,105169,106501,106517,,\nMotorcycle,Honda,Unicorn,160 cc,Front,106207,80/100-17 ZOOM X3 F TL 46P,,105169,106501,106517,,\nMotorcycle,Honda,Xblade,160 cc,Front,106207,80/100-"
+    "text": "Mahindra PANTERO 100 cc\nFront Tyre — SKU 100227: 2.75-18 SECURA ZOOM F TT 42P | Alt SKUs: 100226, 103202, 105762\nRear Tyre — SKU 113310: 3.00-18 GRIPP X5 TT 52P | Alt SKUs: 102974, 101494, 105765",
+    "category": "Motorcycle",
+    "brand": "Mahindra",
+    "model": "PANTERO",
+    "variant": "100 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 100227,
+        "sku_desc": "2.75-18 SECURA ZOOM F TT 42P",
+        "alt_skus": [
+          100226,
+          103202,
+          105762
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113310,
+        "sku_desc": "3.00-18 GRIPP X5 TT 52P",
+        "alt_skus": [
+          102974,
+          101494,
+          105765
+        ]
+      }
+    ]
   },
   {
     "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
     "chunk_index": 18,
-    "text": "7,80/100-17 ZOOM X3 F TL 46P,,105169,106501,106517,,\nMotorcycle,Honda,Unicorn,160 cc,Front,106207,80/100-17 ZOOM X3 F TL 46P,,105169,106501,106517,,\nMotorcycle,Honda,Xblade,160 cc,Front,106207,80/100-17 ZOOM X3 F TL 46P,,105169,106501,106517,,\nMotorcycle,Bajaj,Pulsar,NS 125 cc,Front,106207,80/100-17 ZOOM X3 F TL 46P,,105169,106501,106517,,\nMotorcycle,Bajaj,Avenger,220 cc,Rear,106209,130/90-15 ZOOM X3 TL 66P,,,,,,\nMotorcycle,Bajaj,Avenger,160 cc,Rear,106209,130/90-15 ZOOM X3 TL 66P,,,,,,\nMotorcycle,Bajaj,Avenger,150 cc,Rear,106209,130/90-15 ZOOM X3 TL 66P,,,,,,\nMotorcycle,Jawa,Perak,350 cc,Front,106360,100/90-18 ZOOM CRUZ F  56 H TL,,,,,,\nMotorcycle,Jawa,Perak,350 cc,Rear,106361,140/70-17 ZOOM CRUZ 66 H TL,,106388,101824,105808,,\nMotorcycle,Royal Enfield,Classic,350 cc,Rear,106718,110/90-18 GRIPP XL TT 61P,,103034,,,,\nMotorcycle,Royal Enfield,Thunderbird,350 cc,Rear,106718,110/90-18 GRIPP XL TT 61P,,103034,,,,\nMotorcycle,Yamaha,FZ 16,150 cc,Rear,113709,140/60R17 CROSSRAD TL 63H,,107819,"
+    "text": "Mahindra Stallion 100 cc\nFront Tyre — SKU 100227: 2.75-18 SECURA ZOOM F TT 42P | Alt SKUs: 100226, 103202, 105762\nRear Tyre — SKU 113310: 3.00-18 GRIPP X5 TT 52P | Alt SKUs: 102974, 101494, 105765",
+    "category": "Motorcycle",
+    "brand": "Mahindra",
+    "model": "Stallion",
+    "variant": "100 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 100227,
+        "sku_desc": "2.75-18 SECURA ZOOM F TT 42P",
+        "alt_skus": [
+          100226,
+          103202,
+          105762
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113310,
+        "sku_desc": "3.00-18 GRIPP X5 TT 52P",
+        "alt_skus": [
+          102974,
+          101494,
+          105765
+        ]
+      }
+    ]
   },
   {
     "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
     "chunk_index": 19,
-    "text": "GRIPP XL TT 61P,,103034,,,,\nMotorcycle,Royal Enfield,Thunderbird,350 cc,Rear,106718,110/90-18 GRIPP XL TT 61P,,103034,,,,\nMotorcycle,Yamaha,FZ 16,150 cc,Rear,113709,140/60R17 CROSSRAD TL 63H,,107819,,,,\nMotorcycle,Yamaha,Fazer,150 cc,Rear,113709,140/60R17 CROSSRAD TL 63H,,107819,,,,\nMotorcycle,Suzuki,Gixxer,155 cc,Rear,113709,140/60R17 CROSSRAD TL 63H,,107819,,,,\nMotorcycle,Suzuki,Intruder,155 cc,Rear,113709,140/60R17 CROSSRAD TL 63H,,107819,,,,\nMotorcycle,Royal Enfield,Himalayan,411 cc,Rear,107820,120/90-17 GRIPP XL PLUS 64S TT,,,,,,\nMotorcycle,Honda,CBR,250 cc,Rear,113263,140/70-17 GRIPP X5 TL 66H,,101824,106388,105808,106361,\nMotorcycle,Honda,Hornet,160R,Rear,113263,140/70-17 GRIPP X5 TL 66H,,101824,106388,105808,106361,\nMotorcycle,Yamaha,FZ25,250 cc,Rear,113263,140/70-17 GRIPP X5 TL 66H,,101824,106388,105808,106361,\nMotorcycle,Yamaha,MT15,MT15,Rear,113263,140/70-17 GRIPP X5 TL 66H,,101824,106388,105808,106361,\nMotorcycle,Yamaha,R15,155 cc,Rear,113263,140/70-17 GRIPP X5 TL 66H,,101"
+    "text": "Suzuki GS 150 150 cc\nFront Tyre — SKU 100227: 2.75-18 SECURA ZOOM F TT 42P | Alt SKUs: 100226, 103202, 105762\nRear Tyre — SKU 113265: 100/90-18 GRIPP X5 TL 56P | Alt SKUs: 106384, 101961, 106762, 106763",
+    "category": "Motorcycle",
+    "brand": "Suzuki",
+    "model": "GS 150",
+    "variant": "150 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 100227,
+        "sku_desc": "2.75-18 SECURA ZOOM F TT 42P",
+        "alt_skus": [
+          100226,
+          103202,
+          105762
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113265,
+        "sku_desc": "100/90-18 GRIPP X5 TL 56P",
+        "alt_skus": [
+          106384,
+          101961,
+          106762,
+          106763
+        ]
+      }
+    ]
   },
   {
     "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
     "chunk_index": 20,
-    "text": "6H,,101824,106388,105808,106361,\nMotorcycle,Yamaha,MT15,MT15,Rear,113263,140/70-17 GRIPP X5 TL 66H,,101824,106388,105808,106361,\nMotorcycle,Yamaha,R15,155 cc,Rear,113263,140/70-17 GRIPP X5 TL 66H,,101824,106388,105808,106361,\nMotorcycle,Bajaj,Pulsar,150 cc Twin Disc,Rear,113264,120/80-17 GRIPP X5 TL 61P,,106074,,,,\nMotorcycle,Bajaj,Pulsar,180 cc,Rear,113264,120/80-17 GRIPP X5 TL 61P,,106074,,,,\nMotorcycle,Bajaj,Pulsar,160 cc,Rear,113264,120/80-17 GRIPP X5 TL 61P,,106074,,,,\nMotorcycle,Bajaj,Pulsar,220 cc,Rear,113264,120/80-17 GRIPP X5 TL 61P,,106074,,,,\nMotorcycle,Hero,Hunk,150 cc,Rear,113265,100/90-18 GRIPP X5 TL 56P,,106384,101961,106762,106763,\nMotorcycle,Honda,Unicorn,150 cc,Rear,113265,100/90-18 GRIPP X5 TL 56P,,106384,101961,106762,106763,\nMotorcycle,Honda,Unicorn,150 cc,Rear,113265,100/90-18 GRIPP X5 TL 56P,,106384,101961,106762,106763,\nMotorcycle,Suzuki,GS 150,150 cc,Rear,113265,100/90-18 GRIPP X5 TL 56P,,106384,101961,106762,106763,\nMotorcycle,TVS,Apache,RTR 160 Hyper Edge,Rea"
+    "text": "Suzuki Heat 125 cc\nFront Tyre — SKU 100227: 2.75-18 SECURA ZOOM F TT 42P | Alt SKUs: 100226, 103202, 105762\nRear Tyre — SKU 113310: 3.00-18 GRIPP X5 TT 52P | Alt SKUs: 102974, 101494, 105765",
+    "category": "Motorcycle",
+    "brand": "Suzuki",
+    "model": "Heat",
+    "variant": "125 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 100227,
+        "sku_desc": "2.75-18 SECURA ZOOM F TT 42P",
+        "alt_skus": [
+          100226,
+          103202,
+          105762
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113310,
+        "sku_desc": "3.00-18 GRIPP X5 TT 52P",
+        "alt_skus": [
+          102974,
+          101494,
+          105765
+        ]
+      }
+    ]
   },
   {
     "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
     "chunk_index": 21,
-    "text": "100/90-18 GRIPP X5 TL 56P,,106384,101961,106762,106763,\nMotorcycle,Suzuki,GS 150,150 cc,Rear,113265,100/90-18 GRIPP X5 TL 56P,,106384,101961,106762,106763,\nMotorcycle,TVS,Apache,RTR 160 Hyper Edge,Rear,113265,100/90-18 GRIPP X5 TL 56P,,,,,,\nMotorcycle,Bajaj,Discover,125 cc,Rear,113266,100/90-17 GRIPP X5 TL 55P,,106210,106503,106761,,\nMotorcycle,Bajaj,Discover,150 cc,Rear,113266,100/90-17 GRIPP X5 TL 55P,,106210,106503,106761,,\nMotorcycle,Bajaj,Pulsar,135 cc,Rear,113266,100/90-17 GRIPP X5 TL 55P,,106210,106503,106761,,\nMotorcycle,Bajaj,Pulsar,125 cc,Rear,113266,100/90-17 GRIPP X5 TL 55P,,106210,106503,106761,,\nMotorcycle,Bajaj,Pulsar,150 cc,Rear,113266,100/90-17 GRIPP X5 TL 55P,,106210,106503,106761,,\nMotorcycle,Bajaj,XCD,100 cc,Rear,113266,100/90-17 GRIPP X5 TL 55P,,106210,106503,106761,,\nMotorcycle,Hero,Ignitor,125 cc,Rear,113266,100/90-17 GRIPP X5 TL 55P,,106210,106503,106761,,\nMotorcycle,Honda,CBF Stunner,125 cc,Rear,113266,100/90-17 GRIPP X5 TL 55P,,106210,,106503,106761,\nMotorcycl"
+    "text": "Suzuki Sling Shot 125 cc\nFront Tyre — SKU 100227: 2.75-18 SECURA ZOOM F TT 42P | Alt SKUs: 100226, 103202, 105762\nRear Tyre — SKU 113310: 3.00-18 GRIPP X5 TT 52P | Alt SKUs: 102974, 101494, 105765",
+    "category": "Motorcycle",
+    "brand": "Suzuki",
+    "model": "Sling Shot",
+    "variant": "125 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 100227,
+        "sku_desc": "2.75-18 SECURA ZOOM F TT 42P",
+        "alt_skus": [
+          100226,
+          103202,
+          105762
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113310,
+        "sku_desc": "3.00-18 GRIPP X5 TT 52P",
+        "alt_skus": [
+          102974,
+          101494,
+          105765
+        ]
+      }
+    ]
   },
   {
     "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
     "chunk_index": 22,
-    "text": "Motorcycle,Hero,Ignitor,125 cc,Rear,113266,100/90-17 GRIPP X5 TL 55P,,106210,106503,106761,,\nMotorcycle,Honda,CBF Stunner,125 cc,Rear,113266,100/90-17 GRIPP X5 TL 55P,,106210,,106503,106761,\nMotorcycle,Yamaha,SZ RR,150 cc,Rear,113266,100/90-17 GRIPP X5 TL 55P,,106210,,106503,106761,\nMotorcycle,TVS,Flame,135 cc,Rear,113266,100/90-17 GRIPP X5 TL 55P,,106210,106503,106761,,\nMotorcycle,Bajaj,Pulsar,NS 125 cc,Rear,113266,100/90-17 GRIPP X5 TL 55P,,106210,106503,106761,,\nMotorcycle,Hero,Achiever,150 cc,Rear,113267,80/100-18 GRIPP X5 TL 54P,,101957,103065,105761,106500,102573\nMotorcycle,Hero,Glamour,125 cc,Rear,113267,80/100-18 GRIPP X5 TL 54P,,101957,103065,105761,106500,102573\nMotorcycle,Hero,Splendor,Splendor +,Rear,113267,80/100-18 GRIPP X5 TL 54P,,101957,103065,105761,106500,102573\nMotorcycle,Hero,Splendor,Splendor I Smart 125 cc,Rear,113267,80/100-18 GRIPP X5 TL 54P,,101957,103065,105761,106500,102573\nMotorcycle,Hero,Passion,Passion Pro 110 cc,Rear,113267,80/100-18 GRIPP X5 TL 54P,,1019"
+    "text": "Suzuki Zeus 125 cc\nFront Tyre — SKU 100227: 2.75-18 SECURA ZOOM F TT 42P | Alt SKUs: 100226, 103202, 105762\nRear Tyre — SKU 113310: 3.00-18 GRIPP X5 TT 52P | Alt SKUs: 102974, 101494, 105765",
+    "category": "Motorcycle",
+    "brand": "Suzuki",
+    "model": "Zeus",
+    "variant": "125 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 100227,
+        "sku_desc": "2.75-18 SECURA ZOOM F TT 42P",
+        "alt_skus": [
+          100226,
+          103202,
+          105762
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113310,
+        "sku_desc": "3.00-18 GRIPP X5 TT 52P",
+        "alt_skus": [
+          102974,
+          101494,
+          105765
+        ]
+      }
+    ]
   },
   {
     "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
     "chunk_index": 23,
-    "text": "e,Hero,Splendor,Splendor I Smart 125 cc,Rear,113267,80/100-18 GRIPP X5 TL 54P,,101957,103065,105761,106500,102573\nMotorcycle,Hero,Passion,Passion Pro 110 cc,Rear,113267,80/100-18 GRIPP X5 TL 54P,,101957,103065,105761,106500,102573\nMotorcycle,Honda,Dream,110 cc,Rear,113267,80/100-18 GRIPP X5 TL 54P,,101957,103065,105761,106500,102573\nMotorcycle,Honda,Shine,125 cc,Rear,113267,80/100-18 GRIPP X5 TL 54P,,101957,103065,105761,106500,102573\nMotorcycle,Honda,Livo,110 cc,Rear,113267,80/100-18 GRIPP X5 TL 54P,,101957,103065,105761,106500,102573\nMotorcycle,Yamaha,Saluto,125 cc,Rear,113267,80/100-18 GRIPP X5 TL 54P,,101957,103065,105761,106500,102573\nMotorcycle,Bajaj,Boxer,100 cc,Rear,113268,3.00-17 GRIPP X5 TT 50P,,101673,102975,105764,,\nMotorcycle,Bajaj,CT,100 cc,Rear,113268,3.00-17 GRIPP X5 TT 50P,,101673,102975,105764,,\nMotorcycle,Bajaj,CT,110 cc,Rear,113268,3.00-17 GRIPP X5 TT 50P,,101673,102975,105764,,\nMotorcycle,Bajaj,Platina,100 cc,Rear,113268,3.00-17 GRIPP X5 TT 50P,,101673,102975,10576"
+    "text": "TVS Radeon 110 cc\nFront Tyre — SKU 100227: 2.75-18 SECURA ZOOM F TT 42P | Alt SKUs: 100226, 103202, 105762\nRear Tyre — SKU 113310: 3.00-18 GRIPP X5 TT 52P | Alt SKUs: 102974, 101494, 105765",
+    "category": "Motorcycle",
+    "brand": "TVS",
+    "model": "Radeon",
+    "variant": "110 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 100227,
+        "sku_desc": "2.75-18 SECURA ZOOM F TT 42P",
+        "alt_skus": [
+          100226,
+          103202,
+          105762
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113310,
+        "sku_desc": "3.00-18 GRIPP X5 TT 52P",
+        "alt_skus": [
+          102974,
+          101494,
+          105765
+        ]
+      }
+    ]
   },
   {
     "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
     "chunk_index": 24,
-    "text": ",,101673,102975,105764,,\nMotorcycle,Bajaj,CT,110 cc,Rear,113268,3.00-17 GRIPP X5 TT 50P,,101673,102975,105764,,\nMotorcycle,Bajaj,Platina,100 cc,Rear,113268,3.00-17 GRIPP X5 TT 50P,,101673,102975,105764,,\nMotorcycle,Bajaj,Discover,110 cc,Rear,113268,3.00-17 GRIPP X5 TT 50P,,101673,102975,105764,,\nMotorcycle,Yamaha,Saluto RX,110 cc,Rear,113268,3.00-17 GRIPP X5 TT 50P,,101673,102975,105764,,\nMotorcycle,TVS,Jive,125 cc,Rear,113268,3.00-17 GRIPP X5 TT 50P,,101673,102975,105764,,\nMotorcycle,TVS,MAX 1,100 cc,Rear,113268,3.00-17 GRIPP X5 TT 50P,,101673,102975,105764,,\nMotorcycle,TVS,Star City,110 cc,Rear,113268,3.00-17 GRIPP X5 TT 50P,,101673,102975,105764,,\nMotorcycle,TVS,Sport,100 cc,Rear,113268,3.00-17 GRIPP X5 TT 50P,,101673,102975,105764,,\nMotorcycle,TVS,Victor,125 cc,Rear,113268,3.00-17 GRIPP X5 TT 50P,,101673,102975,105764,,\nMotorcycle,Hero,CD,100cc,Rear,113269,2.75-18 GRIPP X5 TT 48P,,102976,101672,105763,,\nMotorcycle,Hero,CD,Dawn 100 cc,Rear,113269,2.75-18 GRIPP X5 TT 48P,,102976,1016"
+    "text": "Bajaj Boxer 100 cc\nFront Tyre — SKU 100523: 2.75-17 SECURA ZOOM F TT 41P | Alt SKUs: 100670, 105766\nRear Tyre — SKU 113268: 3.00-17 GRIPP X5 TT 50P | Alt SKUs: 101673, 102975, 105764",
+    "category": "Motorcycle",
+    "brand": "Bajaj",
+    "model": "Boxer",
+    "variant": "100 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 100523,
+        "sku_desc": "2.75-17 SECURA ZOOM F TT 41P",
+        "alt_skus": [
+          100670,
+          105766
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113268,
+        "sku_desc": "3.00-17 GRIPP X5 TT 50P",
+        "alt_skus": [
+          101673,
+          102975,
+          105764
+        ]
+      }
+    ]
   },
   {
     "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
     "chunk_index": 25,
-    "text": "P X5 TT 50P,,101673,102975,105764,,\nMotorcycle,Hero,CD,100cc,Rear,113269,2.75-18 GRIPP X5 TT 48P,,102976,101672,105763,,\nMotorcycle,Hero,CD,Dawn 100 cc,Rear,113269,2.75-18 GRIPP X5 TT 48P,,102976,101672,105763,,\nMotorcycle,Hero,Splendor,Splendor 100 cc,Rear,113269,2.75-18 GRIPP X5 TT 48P,,102976,101672,105763,,\nMotorcycle,Hero,HF Deluxe,100 cc,Rear,113269,2.75-18 GRIPP X5 TT 48P,,102976,101672,105763,,\nMotorcycle,Yamaha,Enticer,125 cc,Rear,113269,2.75-18 GRIPP X5 TT 48P,,102976,101672,105763,,\nMotorcycle,Bajaj,Calliber,100 cc,Rear,113310,3.00-18 GRIPP X5 TT 52P,,102974,101494,105765,,\nMotorcycle,Bajaj,Wind,125 cc,Rear,113310,3.00-18 GRIPP X5 TT 52P,,102974,101494,105765,,\nMotorcycle,Hero,Ambition,135 cc,Rear,113310,3.00-18 GRIPP X5 TT 52P,,102974,101494,105765,,\nMotorcycle,Hero,Glamour,125 cc,Rear,113310,3.00-18 GRIPP X5 TT 52P,,102974,101494,105765,,\nMotorcycle,Hero,Passion,100 cc,Rear,113310,3.00-18 GRIPP X5 TT 52P,,102974,101494,105765,,\nMotorcycle,Yamaha,Alba,100 cc,Rear,113310,3.0"
+    "text": "Bajaj CT 100 cc\nFront Tyre — SKU 100523: 2.75-17 SECURA ZOOM F TT 41P | Alt SKUs: 100670, 105766\nRear Tyre — SKU 113268: 3.00-17 GRIPP X5 TT 50P | Alt SKUs: 101673, 102975, 105764",
+    "category": "Motorcycle",
+    "brand": "Bajaj",
+    "model": "CT",
+    "variant": "100 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 100523,
+        "sku_desc": "2.75-17 SECURA ZOOM F TT 41P",
+        "alt_skus": [
+          100670,
+          105766
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113268,
+        "sku_desc": "3.00-17 GRIPP X5 TT 50P",
+        "alt_skus": [
+          101673,
+          102975,
+          105764
+        ]
+      }
+    ]
   },
   {
     "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
     "chunk_index": 26,
-    "text": "cc,Rear,113310,3.00-18 GRIPP X5 TT 52P,,102974,101494,105765,,\nMotorcycle,Hero,Passion,100 cc,Rear,113310,3.00-18 GRIPP X5 TT 52P,,102974,101494,105765,,\nMotorcycle,Yamaha,Alba,100 cc,Rear,113310,3.00-18 GRIPP X5 TT 52P,,102974,101494,105765,,\nMotorcycle,Yamaha,Crux R,100 cc,Rear,113310,3.00-18 GRIPP X5 TT 52P,,102974,101494,105765,,\nMotorcycle,Yamaha,G5,150 cc,Rear,113310,3.00-18 GRIPP X5 TT 52P,,102974,101494,105765,,\nMotorcycle,Yamaha,Gladiator,125 cc,Rear,113310,3.00-18 GRIPP X5 TT 52P,,102974,101494,105765,,\nMotorcycle,Yamaha,YBR,YBR,Rear,113310,3.00-18 GRIPP X5 TT 52P,,102974,101494,105765,,\nMotorcycle,Mahindra,Centuro,100 cc,Rear,113310,3.00-18 GRIPP X5 TT 52P,,102974,101494,105765,,\nMotorcycle,Mahindra,PANTERO,100 cc,Rear,113310,3.00-18 GRIPP X5 TT 52P,,102974,101494,105765,,\nMotorcycle,Mahindra,Stallion,100 cc,Rear,113310,3.00-18 GRIPP X5 TT 52P,,102974,101494,105765,,\nMotorcycle,Suzuki,Heat,125 cc,Rear,113310,3.00-18 GRIPP X5 TT 52P,,102974,101494,105765,,\nMotorcycle,Suzuki,"
+    "text": "Bajaj CT 110 cc\nFront Tyre — SKU 100523: 2.75-17 SECURA ZOOM F TT 41P | Alt SKUs: 100670, 105766\nRear Tyre — SKU 113268: 3.00-17 GRIPP X5 TT 50P | Alt SKUs: 101673, 102975, 105764",
+    "category": "Motorcycle",
+    "brand": "Bajaj",
+    "model": "CT",
+    "variant": "110 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 100523,
+        "sku_desc": "2.75-17 SECURA ZOOM F TT 41P",
+        "alt_skus": [
+          100670,
+          105766
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113268,
+        "sku_desc": "3.00-17 GRIPP X5 TT 50P",
+        "alt_skus": [
+          101673,
+          102975,
+          105764
+        ]
+      }
+    ]
   },
   {
     "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
     "chunk_index": 27,
-    "text": "rcycle,Mahindra,Stallion,100 cc,Rear,113310,3.00-18 GRIPP X5 TT 52P,,102974,101494,105765,,\nMotorcycle,Suzuki,Heat,125 cc,Rear,113310,3.00-18 GRIPP X5 TT 52P,,102974,101494,105765,,\nMotorcycle,Suzuki,Sling Shot,125 cc,Rear,113310,3.00-18 GRIPP X5 TT 52P,,102974,101494,105765,,\nMotorcycle,Suzuki,Zeus,125 cc,Rear,113310,3.00-18 GRIPP X5 TT 52P,,102974,101494,105765,,\nMotorcycle,TVS,Radeon,110 cc,Rear,113310,3.00-18 GRIPP X5 TT 52P,,102974,101494,105765,,\nMotorcycle,Hero,CBZ Xtreme,150 cc,Rear,,110/90-18 ZOOM PLUS  TT 61P,,103034,,,,\nMotorcycle,Aprilia,RS 457,457 cc,Front,113494,110/70ZR17 SPORTRAD TL 54W,,104976,,,,\nMotorcycle,Aprilia,RS 457,457 cc,Front,113496,150/60ZR17 SPORTRAD TL 66W,,104974,,,,\nMotorcycle,BMW ,GS 310,310 CC,Front,113577,110/80R19 CROSSRAD TL 59V,,,,,,\nMotorcycle,SUZUKI ,V-STORM 650,645 CC,Front,113577,110/80R19 CROSSRAD TL 59V,,,,,,\nMotorcycle,SUZUKI ,V-STORM 1000,1037 CC,Front,113577,110/80R19 CROSSRAD TL 59V,,,,,,\nMotorcycle,BMW ,GS 750,853 CC,Rear,113578,150/70R1"
+    "text": "Bajaj Platina 100 cc\nFront Tyre — SKU 100523: 2.75-17 SECURA ZOOM F TT 41P | Alt SKUs: 100670, 105766\nRear Tyre — SKU 113268: 3.00-17 GRIPP X5 TT 50P | Alt SKUs: 101673, 102975, 105764",
+    "category": "Motorcycle",
+    "brand": "Bajaj",
+    "model": "Platina",
+    "variant": "100 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 100523,
+        "sku_desc": "2.75-17 SECURA ZOOM F TT 41P",
+        "alt_skus": [
+          100670,
+          105766
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113268,
+        "sku_desc": "3.00-17 GRIPP X5 TT 50P",
+        "alt_skus": [
+          101673,
+          102975,
+          105764
+        ]
+      }
+    ]
   },
   {
     "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
     "chunk_index": 28,
-    "text": ",V-STORM 650,645 CC,Front,113577,110/80R19 CROSSRAD TL 59V,,,,,,\nMotorcycle,SUZUKI ,V-STORM 1000,1037 CC,Front,113577,110/80R19 CROSSRAD TL 59V,,,,,,\nMotorcycle,BMW ,GS 750,853 CC,Rear,113578,150/70R17 CROSSRAD TL 69V,,,,,,\nMotorcycle,SUZUKI ,VSTORM 650,645 CC,Rear,113578,150/70R17 CROSSRAD TL 69V,,,,,,\nMotorcycle,SUZUKI ,VSTORM 650,1037 CC,Rear,113578,150/70R17 CROSSRAD TL 69V,,,,,,\nMotorcycle,BMW ,GS 310,310 CC,Rear,113578,150/70R17 CROSSRAD TL 69V,,,,,,\nMotorcycle,TRIUMPH ,STREET SCRAMBLER,900 CC,Rear,113578,150/70R17 CROSSRAD TL 69V,,,,,,\nMotorcycle,Kawasaki,ZX-10R,998CC,Front,113895,120/70ZR17 SPORTRAD ST TL  58W,,,,,,\nMotorcycle,Kawasaki,ZX-10R,998CC,Rear,113921,190/55ZR17 SPORTRAD ST 75W,,,,,,\nMotorcycle,Kawasaki,Versys 650,649CC,Front,113895,120/70ZR17 SPORTRAD ST TL  58W,,,,,,\nMotorcycle,Kawasaki,Z650RS,649CC,Front,113895,120/70ZR17 SPORTRAD ST TL  58W,,,,,,\nMotorcycle,BMW ,S1000R,999CC,Front,113895,120/70ZR17 SPORTRAD ST TL  58W,,,,,,\nMotorcycle,BMW ,S1000R,999CC,Rear,113921,"
+    "text": "Bajaj Discover 110 cc\nFront Tyre — SKU 100523: 2.75-17 SECURA ZOOM F TT 41P | Alt SKUs: 100670, 105766\nRear Tyre — SKU 113268: 3.00-17 GRIPP X5 TT 50P | Alt SKUs: 101673, 102975, 105764",
+    "category": "Motorcycle",
+    "brand": "Bajaj",
+    "model": "Discover",
+    "variant": "110 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 100523,
+        "sku_desc": "2.75-17 SECURA ZOOM F TT 41P",
+        "alt_skus": [
+          100670,
+          105766
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113268,
+        "sku_desc": "3.00-17 GRIPP X5 TT 50P",
+        "alt_skus": [
+          101673,
+          102975,
+          105764
+        ]
+      }
+    ]
   },
   {
     "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
     "chunk_index": 29,
-    "text": "orcycle,Kawasaki,Z650RS,649CC,Front,113895,120/70ZR17 SPORTRAD ST TL  58W,,,,,,\nMotorcycle,BMW ,S1000R,999CC,Front,113895,120/70ZR17 SPORTRAD ST TL  58W,,,,,,\nMotorcycle,BMW ,S1000R,999CC,Rear,113921,190/55ZR17 SPORTRAD ST 75W,,,,,,\nMotorcycle,BMW ,R1200RS,1170CC,Front,113895,120/70ZR17 SPORTRAD ST TL  58W,,,,,,\nMotorcycle,BMW ,R1200RS,1170CC,Rear,113896,180/55ZR17 SPORTRAD ST TL  73W,,,,,,\nMotorcycle,BMW ,S1000XR,999CC,Front,113895,120/70ZR17 SPORTRAD ST TL  58W,,,,,,\nMotorcycle,BMW ,S1000XR,999CC,Rear,113921,190/55ZR17 SPORTRAD ST 75W,,,,,,\nMotorcycle,Suzuki,GSX-R1000,999CC,Front,113895,120/70ZR17 SPORTRAD ST TL  58W,,,,,,\nMotorcycle,Suzuki,GSX-R1000,999CC,Rear,113921,190/55ZR17 SPORTRAD ST 75W,,,,,,\nMotorcycle,Royal Enfield,Gureilla 450,452CC,Front,113895,120/70ZR17 SPORTRAD ST TL  58W,,,,,,\nMotorcycle,Honda,CBR650F,648CC,Font,113895,120/70ZR17 SPORTRAD ST TL  58W,,,,,,\nMotorcycle,Honda,CBR650F,648CC,Rear,113896,180/55ZR17 SPORTRAD ST TL  73W,,,,,,\nMotorcycle,KTM,Duke,890CC,Font,113"
+    "text": "Bajaj Discover 125 cc\nFront Tyre — SKU 100523: 2.75-17 SECURA ZOOM F TT 41P | Alt SKUs: 100670, 105766\nRear Tyre — SKU 113266: 100/90-17 GRIPP X5 TL 55P | Alt SKUs: 106210, 106503, 106761",
+    "category": "Motorcycle",
+    "brand": "Bajaj",
+    "model": "Discover",
+    "variant": "125 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 100523,
+        "sku_desc": "2.75-17 SECURA ZOOM F TT 41P",
+        "alt_skus": [
+          100670,
+          105766
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113266,
+        "sku_desc": "100/90-17 GRIPP X5 TL 55P",
+        "alt_skus": [
+          106210,
+          106503,
+          106761
+        ]
+      }
+    ]
   },
   {
     "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
     "chunk_index": 30,
-    "text": ",,,,,\nMotorcycle,Honda,CBR650F,648CC,Font,113895,120/70ZR17 SPORTRAD ST TL  58W,,,,,,\nMotorcycle,Honda,CBR650F,648CC,Rear,113896,180/55ZR17 SPORTRAD ST TL  73W,,,,,,\nMotorcycle,KTM,Duke,890CC,Font,113895,120/70ZR17 SPORTRAD ST TL  58W,,,,,,\nMotorcycle,KTM,Duke,890CC,Rear,113896,180/55ZR17 SPORTRAD ST TL  73W,,,,,,\nMotorcycle,RE,Himalayan,411cc,Rear,115113,120/90-17 Gripp XC TT 64R,,,,,,\nMotorcycle,RE,Goan Classic,349cc,Front,112903,100/90-19 Zoom Classic F TL 63P,,,,,,\nMotorcycle,RE,Goan Classic,349cc,Rear,112902,130/90-16 Zoom Classic TL 74P,,,,,,"
+    "text": "Bajaj Pulsar 135 cc\nFront Tyre — SKU 100523: 2.75-17 SECURA ZOOM F TT 41P | Alt SKUs: 100670, 105766\nRear Tyre — SKU 113266: 100/90-17 GRIPP X5 TL 55P | Alt SKUs: 106210, 106503, 106761",
+    "category": "Motorcycle",
+    "brand": "Bajaj",
+    "model": "Pulsar",
+    "variant": "135 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 100523,
+        "sku_desc": "2.75-17 SECURA ZOOM F TT 41P",
+        "alt_skus": [
+          100670,
+          105766
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113266,
+        "sku_desc": "100/90-17 GRIPP X5 TL 55P",
+        "alt_skus": [
+          106210,
+          106503,
+          106761
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 31,
+    "text": "Bajaj XCD 100 cc\nFront Tyre — SKU 100523: 2.75-17 SECURA ZOOM F TT 41P | Alt SKUs: 100670, 105766\nRear Tyre — SKU 113266: 100/90-17 GRIPP X5 TL 55P | Alt SKUs: 106210, 106503, 106761",
+    "category": "Motorcycle",
+    "brand": "Bajaj",
+    "model": "XCD",
+    "variant": "100 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 100523,
+        "sku_desc": "2.75-17 SECURA ZOOM F TT 41P",
+        "alt_skus": [
+          100670,
+          105766
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113266,
+        "sku_desc": "100/90-17 GRIPP X5 TL 55P",
+        "alt_skus": [
+          106210,
+          106503,
+          106761
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 32,
+    "text": "Yamaha SZ RR 150 cc\nFront Tyre — SKU 100523: 2.75-17 SECURA ZOOM F TT 41P | Alt SKUs: 100670, 105766\nRear Tyre — SKU 113266: 100/90-17 GRIPP X5 TL 55P | Alt SKUs: 106210, 106503, 106761",
+    "category": "Motorcycle",
+    "brand": "Yamaha",
+    "model": "SZ RR",
+    "variant": "150 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 100523,
+        "sku_desc": "2.75-17 SECURA ZOOM F TT 41P",
+        "alt_skus": [
+          100670,
+          105766
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113266,
+        "sku_desc": "100/90-17 GRIPP X5 TL 55P",
+        "alt_skus": [
+          106210,
+          106503,
+          106761
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 33,
+    "text": "Yamaha Saluto RX 110 cc\nFront Tyre — SKU 100523: 2.75-17 SECURA ZOOM F TT 41P | Alt SKUs: 100670, 105766\nRear Tyre — SKU 113268: 3.00-17 GRIPP X5 TT 50P | Alt SKUs: 101673, 102975, 105764",
+    "category": "Motorcycle",
+    "brand": "Yamaha",
+    "model": "Saluto RX",
+    "variant": "110 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 100523,
+        "sku_desc": "2.75-17 SECURA ZOOM F TT 41P",
+        "alt_skus": [
+          100670,
+          105766
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113268,
+        "sku_desc": "3.00-17 GRIPP X5 TT 50P",
+        "alt_skus": [
+          101673,
+          102975,
+          105764
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 34,
+    "text": "TVS Flame 135 cc\nFront Tyre — SKU 100523: 2.75-17 SECURA ZOOM F TT 41P | Alt SKUs: 100670, 105766\nRear Tyre — SKU 113266: 100/90-17 GRIPP X5 TL 55P | Alt SKUs: 106210, 106503, 106761",
+    "category": "Motorcycle",
+    "brand": "TVS",
+    "model": "Flame",
+    "variant": "135 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 100523,
+        "sku_desc": "2.75-17 SECURA ZOOM F TT 41P",
+        "alt_skus": [
+          100670,
+          105766
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113266,
+        "sku_desc": "100/90-17 GRIPP X5 TL 55P",
+        "alt_skus": [
+          106210,
+          106503,
+          106761
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 35,
+    "text": "TVS Jive 125 cc\nFront Tyre — SKU 100523: 2.75-17 SECURA ZOOM F TT 41P | Alt SKUs: 100670, 105766\nRear Tyre — SKU 113268: 3.00-17 GRIPP X5 TT 50P | Alt SKUs: 101673, 102975, 105764",
+    "category": "Motorcycle",
+    "brand": "TVS",
+    "model": "Jive",
+    "variant": "125 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 100523,
+        "sku_desc": "2.75-17 SECURA ZOOM F TT 41P",
+        "alt_skus": [
+          100670,
+          105766
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113268,
+        "sku_desc": "3.00-17 GRIPP X5 TT 50P",
+        "alt_skus": [
+          101673,
+          102975,
+          105764
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 36,
+    "text": "TVS MAX 1 100 cc\nFront Tyre — SKU 100523: 2.75-17 SECURA ZOOM F TT 41P | Alt SKUs: 100670, 105766\nRear Tyre — SKU 113268: 3.00-17 GRIPP X5 TT 50P | Alt SKUs: 101673, 102975, 105764",
+    "category": "Motorcycle",
+    "brand": "TVS",
+    "model": "MAX 1",
+    "variant": "100 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 100523,
+        "sku_desc": "2.75-17 SECURA ZOOM F TT 41P",
+        "alt_skus": [
+          100670,
+          105766
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113268,
+        "sku_desc": "3.00-17 GRIPP X5 TT 50P",
+        "alt_skus": [
+          101673,
+          102975,
+          105764
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 37,
+    "text": "TVS Star City 110 cc\nFront Tyre — SKU 100523: 2.75-17 SECURA ZOOM F TT 41P | Alt SKUs: 100670, 105766\nRear Tyre — SKU 113268: 3.00-17 GRIPP X5 TT 50P | Alt SKUs: 101673, 102975, 105764",
+    "category": "Motorcycle",
+    "brand": "TVS",
+    "model": "Star City",
+    "variant": "110 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 100523,
+        "sku_desc": "2.75-17 SECURA ZOOM F TT 41P",
+        "alt_skus": [
+          100670,
+          105766
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113268,
+        "sku_desc": "3.00-17 GRIPP X5 TT 50P",
+        "alt_skus": [
+          101673,
+          102975,
+          105764
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 38,
+    "text": "TVS Phoenix 125 cc\nFront Tyre — SKU 100523: 2.75-17 SECURA ZOOM F TT 41P | Alt SKUs: 100670, 105766",
+    "category": "Motorcycle",
+    "brand": "TVS",
+    "model": "Phoenix",
+    "variant": "125 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 100523,
+        "sku_desc": "2.75-17 SECURA ZOOM F TT 41P",
+        "alt_skus": [
+          100670,
+          105766
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 39,
+    "text": "TVS Sport 100 cc\nFront Tyre — SKU 100523: 2.75-17 SECURA ZOOM F TT 41P | Alt SKUs: 100670, 105766\nRear Tyre — SKU 113268: 3.00-17 GRIPP X5 TT 50P | Alt SKUs: 101673, 102975, 105764",
+    "category": "Motorcycle",
+    "brand": "TVS",
+    "model": "Sport",
+    "variant": "100 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 100523,
+        "sku_desc": "2.75-17 SECURA ZOOM F TT 41P",
+        "alt_skus": [
+          100670,
+          105766
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113268,
+        "sku_desc": "3.00-17 GRIPP X5 TT 50P",
+        "alt_skus": [
+          101673,
+          102975,
+          105764
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 40,
+    "text": "TVS Victor 125 cc\nFront Tyre — SKU 100523: 2.75-17 SECURA ZOOM F TT 41P | Alt SKUs: 100670, 105766\nRear Tyre — SKU 113268: 3.00-17 GRIPP X5 TT 50P | Alt SKUs: 101673, 102975, 105764",
+    "category": "Motorcycle",
+    "brand": "TVS",
+    "model": "Victor",
+    "variant": "125 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 100523,
+        "sku_desc": "2.75-17 SECURA ZOOM F TT 41P",
+        "alt_skus": [
+          100670,
+          105766
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113268,
+        "sku_desc": "3.00-17 GRIPP X5 TT 50P",
+        "alt_skus": [
+          101673,
+          102975,
+          105764
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 41,
+    "text": "Royal Enfield Bullet Standard 350 cc\nFront Tyre — SKU 100529: 3.25-19 SECURA F67  TT 54P\nRear Tyre — SKU 101959: 3.50-19 MILAZE  TT 63P | Alt SKUs: 100236",
+    "category": "Motorcycle",
+    "brand": "Royal Enfield",
+    "model": "Bullet Standard",
+    "variant": "350 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 100529,
+        "sku_desc": "3.25-19 SECURA F67  TT 54P",
+        "alt_skus": []
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 101959,
+        "sku_desc": "3.50-19 MILAZE  TT 63P",
+        "alt_skus": [
+          100236
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 42,
+    "text": "Royal Enfield Bullet Electra 350 cc\nFront Tyre — SKU 100529: 3.25-19 SECURA F67  TT 54P\nRear Tyre — SKU 101959: 3.50-19 MILAZE  TT 63P | Alt SKUs: 100236",
+    "category": "Motorcycle",
+    "brand": "Royal Enfield",
+    "model": "Bullet Electra",
+    "variant": "350 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 100529,
+        "sku_desc": "3.25-19 SECURA F67  TT 54P",
+        "alt_skus": []
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 101959,
+        "sku_desc": "3.50-19 MILAZE  TT 63P",
+        "alt_skus": [
+          100236
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 43,
+    "text": "TVS XL Super 70 cc\nFront Tyre — SKU 101859: 2.50-16 SECURA F85  TT 41L\nRear Tyre — SKU 101962: 2.50-16 MILAZE  TT 41L | Alt SKUs: 100222",
+    "category": "Motorcycle",
+    "brand": "TVS",
+    "model": "XL Super",
+    "variant": "70 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 101859,
+        "sku_desc": "2.50-16 SECURA F85  TT 41L",
+        "alt_skus": []
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 101962,
+        "sku_desc": "2.50-16 MILAZE  TT 41L",
+        "alt_skus": [
+          100222
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 44,
+    "text": "Hero Achiever 150 cc\nFront Tyre — SKU 101922: 80/100-18 SECURA ZOOM F  TL 47P | Alt SKUs: 102572, 105740\nRear Tyre — SKU 113267: 80/100-18 GRIPP X5 TL 54P | Alt SKUs: 101957, 103065, 105761, 106500, 102573",
+    "category": "Motorcycle",
+    "brand": "Hero",
+    "model": "Achiever",
+    "variant": "150 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 101922,
+        "sku_desc": "80/100-18 SECURA ZOOM F  TL 47P",
+        "alt_skus": [
+          102572,
+          105740
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113267,
+        "sku_desc": "80/100-18 GRIPP X5 TL 54P",
+        "alt_skus": [
+          101957,
+          103065,
+          105761,
+          106500,
+          102573
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 45,
+    "text": "Hero CBZ Xtreme 150 cc\nFront Tyre — SKU 101922: 80/100-18 SECURA ZOOM F  TL 47P | Alt SKUs: 102572, 105740\nRear Tyre — SKU None: 110/90-18 ZOOM PLUS  TT 61P | Alt SKUs: 103034",
+    "category": "Motorcycle",
+    "brand": "Hero",
+    "model": "CBZ Xtreme",
+    "variant": "150 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 101922,
+        "sku_desc": "80/100-18 SECURA ZOOM F  TL 47P",
+        "alt_skus": [
+          102572,
+          105740
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": null,
+        "sku_desc": "110/90-18 ZOOM PLUS  TT 61P",
+        "alt_skus": [
+          103034
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 46,
+    "text": "Hero Hunk 150 cc\nFront Tyre — SKU 101922: 80/100-18 SECURA ZOOM F  TL 47P | Alt SKUs: 102572, 105740\nRear Tyre — SKU 113265: 100/90-18 GRIPP X5 TL 56P | Alt SKUs: 106384, 101961, 106762, 106763",
+    "category": "Motorcycle",
+    "brand": "Hero",
+    "model": "Hunk",
+    "variant": "150 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 101922,
+        "sku_desc": "80/100-18 SECURA ZOOM F  TL 47P",
+        "alt_skus": [
+          102572,
+          105740
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113265,
+        "sku_desc": "100/90-18 GRIPP X5 TL 56P",
+        "alt_skus": [
+          106384,
+          101961,
+          106762,
+          106763
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 47,
+    "text": "Hero Karizma 200 cc\nFront Tyre — SKU 101922: 80/100-18 SECURA ZOOM F  TL 47P | Alt SKUs: 102572, 105740\nRear Tyre — SKU 106202: 120/80-18 GRIPP XL TL 62P | Alt SKUs: 103035",
+    "category": "Motorcycle",
+    "brand": "Hero",
+    "model": "Karizma",
+    "variant": "200 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 101922,
+        "sku_desc": "80/100-18 SECURA ZOOM F  TL 47P",
+        "alt_skus": [
+          102572,
+          105740
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 106202,
+        "sku_desc": "120/80-18 GRIPP XL TL 62P",
+        "alt_skus": [
+          103035
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 48,
+    "text": "Hero Splendor Splendor +\nFront Tyre — SKU 101922: 80/100-18 SECURA ZOOM F  TL 47P | Alt SKUs: 102572, 105740\nRear Tyre — SKU 113267: 80/100-18 GRIPP X5 TL 54P | Alt SKUs: 101957, 103065, 105761, 106500, 102573",
+    "category": "Motorcycle",
+    "brand": "Hero",
+    "model": "Splendor",
+    "variant": "Splendor +",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 101922,
+        "sku_desc": "80/100-18 SECURA ZOOM F  TL 47P",
+        "alt_skus": [
+          102572,
+          105740
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113267,
+        "sku_desc": "80/100-18 GRIPP X5 TL 54P",
+        "alt_skus": [
+          101957,
+          103065,
+          105761,
+          106500,
+          102573
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 49,
+    "text": "Hero Splendor Splendor I Smart 125 cc\nFront Tyre — SKU 101922: 80/100-18 SECURA ZOOM F  TL 47P | Alt SKUs: 102572, 105740\nRear Tyre — SKU 113267: 80/100-18 GRIPP X5 TL 54P | Alt SKUs: 101957, 103065, 105761, 106500, 102573",
+    "category": "Motorcycle",
+    "brand": "Hero",
+    "model": "Splendor",
+    "variant": "Splendor I Smart 125 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 101922,
+        "sku_desc": "80/100-18 SECURA ZOOM F  TL 47P",
+        "alt_skus": [
+          102572,
+          105740
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113267,
+        "sku_desc": "80/100-18 GRIPP X5 TL 54P",
+        "alt_skus": [
+          101957,
+          103065,
+          105761,
+          106500,
+          102573
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 50,
+    "text": "Hero Passion Passion Pro 110 cc\nFront Tyre — SKU 101922: 80/100-18 SECURA ZOOM F  TL 47P | Alt SKUs: 102572, 105740\nRear Tyre — SKU 113267: 80/100-18 GRIPP X5 TL 54P | Alt SKUs: 101957, 103065, 105761, 106500, 102573",
+    "category": "Motorcycle",
+    "brand": "Hero",
+    "model": "Passion",
+    "variant": "Passion Pro 110 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 101922,
+        "sku_desc": "80/100-18 SECURA ZOOM F  TL 47P",
+        "alt_skus": [
+          102572,
+          105740
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113267,
+        "sku_desc": "80/100-18 GRIPP X5 TL 54P",
+        "alt_skus": [
+          101957,
+          103065,
+          105761,
+          106500,
+          102573
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 51,
+    "text": "Honda Dream 110 cc\nFront Tyre — SKU 101922: 80/100-18 SECURA ZOOM F  TL 47P | Alt SKUs: 102572, 105740\nRear Tyre — SKU 113267: 80/100-18 GRIPP X5 TL 54P | Alt SKUs: 101957, 103065, 105761, 106500, 102573",
+    "category": "Motorcycle",
+    "brand": "Honda",
+    "model": "Dream",
+    "variant": "110 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 101922,
+        "sku_desc": "80/100-18 SECURA ZOOM F  TL 47P",
+        "alt_skus": [
+          102572,
+          105740
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113267,
+        "sku_desc": "80/100-18 GRIPP X5 TL 54P",
+        "alt_skus": [
+          101957,
+          103065,
+          105761,
+          106500,
+          102573
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 52,
+    "text": "Honda Shine 125 cc\nFront Tyre — SKU 101922: 80/100-18 SECURA ZOOM F  TL 47P | Alt SKUs: 102572, 105740\nRear Tyre — SKU 113267: 80/100-18 GRIPP X5 TL 54P | Alt SKUs: 101957, 103065, 105761, 106500, 102573",
+    "category": "Motorcycle",
+    "brand": "Honda",
+    "model": "Shine",
+    "variant": "125 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 101922,
+        "sku_desc": "80/100-18 SECURA ZOOM F  TL 47P",
+        "alt_skus": [
+          102572,
+          105740
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113267,
+        "sku_desc": "80/100-18 GRIPP X5 TL 54P",
+        "alt_skus": [
+          101957,
+          103065,
+          105761,
+          106500,
+          102573
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 53,
+    "text": "Honda Livo 110 cc\nFront Tyre — SKU 101922: 80/100-18 SECURA ZOOM F  TL 47P | Alt SKUs: 102572, 105740\nRear Tyre — SKU 113267: 80/100-18 GRIPP X5 TL 54P | Alt SKUs: 101957, 103065, 105761, 106500, 102573",
+    "category": "Motorcycle",
+    "brand": "Honda",
+    "model": "Livo",
+    "variant": "110 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 101922,
+        "sku_desc": "80/100-18 SECURA ZOOM F  TL 47P",
+        "alt_skus": [
+          102572,
+          105740
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113267,
+        "sku_desc": "80/100-18 GRIPP X5 TL 54P",
+        "alt_skus": [
+          101957,
+          103065,
+          105761,
+          106500,
+          102573
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 54,
+    "text": "Yamaha Saluto 125 cc\nFront Tyre — SKU 101922: 80/100-18 SECURA ZOOM F  TL 47P | Alt SKUs: 102572, 105740\nRear Tyre — SKU 113267: 80/100-18 GRIPP X5 TL 54P | Alt SKUs: 101957, 103065, 105761, 106500, 102573",
+    "category": "Motorcycle",
+    "brand": "Yamaha",
+    "model": "Saluto",
+    "variant": "125 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 101922,
+        "sku_desc": "80/100-18 SECURA ZOOM F  TL 47P",
+        "alt_skus": [
+          102572,
+          105740
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113267,
+        "sku_desc": "80/100-18 GRIPP X5 TL 54P",
+        "alt_skus": [
+          101957,
+          103065,
+          105761,
+          106500,
+          102573
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 55,
+    "text": "Bajaj Platina 110 cc\nRear Tyre — SKU 102442: 80/100-17 ZOOM XL  TL 53P\nFront Tyre — SKU 106207: 80/100-17 ZOOM X3 F TL 46P | Alt SKUs: 105169, 106501, 106517",
+    "category": "Motorcycle",
+    "brand": "Bajaj",
+    "model": "Platina",
+    "variant": "110 cc",
+    "rows": [
+      {
+        "type": "Rear",
+        "recommended_sku": 102442,
+        "sku_desc": "80/100-17 ZOOM XL  TL 53P",
+        "alt_skus": []
+      },
+      {
+        "type": "Front",
+        "recommended_sku": 106207,
+        "sku_desc": "80/100-17 ZOOM X3 F TL 46P",
+        "alt_skus": [
+          105169,
+          106501,
+          106517
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 56,
+    "text": "Suzuki Hayate 100 cc\nRear Tyre — SKU 102442: 80/100-17 ZOOM XL  TL 53P",
+    "category": "Motorcycle",
+    "brand": "Suzuki",
+    "model": "Hayate",
+    "variant": "100 cc",
+    "rows": [
+      {
+        "type": "Rear",
+        "recommended_sku": 102442,
+        "sku_desc": "80/100-17 ZOOM XL  TL 53P",
+        "alt_skus": []
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 57,
+    "text": "Bajaj Pulsar AS 160 cc\nRear Tyre — SKU 102453: 110/80-17 ZOOM XL TL 57P | Alt SKUs: 106385\nFront Tyre — SKU 106207: 80/100-17 ZOOM X3 F TL 46P | Alt SKUs: 105169, 106501, 106517",
+    "category": "Motorcycle",
+    "brand": "Bajaj",
+    "model": "Pulsar",
+    "variant": "AS 160 cc",
+    "rows": [
+      {
+        "type": "Rear",
+        "recommended_sku": 102453,
+        "sku_desc": "110/80-17 ZOOM XL TL 57P",
+        "alt_skus": [
+          106385
+        ]
+      },
+      {
+        "type": "Front",
+        "recommended_sku": 106207,
+        "sku_desc": "80/100-17 ZOOM X3 F TL 46P",
+        "alt_skus": [
+          105169,
+          106501,
+          106517
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 58,
+    "text": "Bajaj Pulsar NS 160 cc\nRear Tyre — SKU 102453: 110/80-17 ZOOM XL TL 57P | Alt SKUs: 106385\nFront Tyre — SKU 106207: 80/100-17 ZOOM X3 F TL 46P | Alt SKUs: 105169, 106501, 106517",
+    "category": "Motorcycle",
+    "brand": "Bajaj",
+    "model": "Pulsar",
+    "variant": "NS 160 cc",
+    "rows": [
+      {
+        "type": "Rear",
+        "recommended_sku": 102453,
+        "sku_desc": "110/80-17 ZOOM XL TL 57P",
+        "alt_skus": [
+          106385
+        ]
+      },
+      {
+        "type": "Front",
+        "recommended_sku": 106207,
+        "sku_desc": "80/100-17 ZOOM X3 F TL 46P",
+        "alt_skus": [
+          105169,
+          106501,
+          106517
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 59,
+    "text": "Honda CB Twister 125 cc\nRear Tyre — SKU 102453: 110/80-17 ZOOM XL TL 57P | Alt SKUs: 106385\nFront Tyre — SKU 106207: 80/100-17 ZOOM X3 F TL 46P | Alt SKUs: 105169, 106501, 106517",
+    "category": "Motorcycle",
+    "brand": "Honda",
+    "model": "CB Twister",
+    "variant": "125 cc",
+    "rows": [
+      {
+        "type": "Rear",
+        "recommended_sku": 102453,
+        "sku_desc": "110/80-17 ZOOM XL TL 57P",
+        "alt_skus": [
+          106385
+        ]
+      },
+      {
+        "type": "Front",
+        "recommended_sku": 106207,
+        "sku_desc": "80/100-17 ZOOM X3 F TL 46P",
+        "alt_skus": [
+          105169,
+          106501,
+          106517
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 60,
+    "text": "Honda Trigger 100 cc\nRear Tyre — SKU 102453: 110/80-17 ZOOM XL TL 57P | Alt SKUs: 106385\nFront Tyre — SKU 106207: 80/100-17 ZOOM X3 F TL 46P | Alt SKUs: 105169, 106501, 106517",
+    "category": "Motorcycle",
+    "brand": "Honda",
+    "model": "Trigger",
+    "variant": "100 cc",
+    "rows": [
+      {
+        "type": "Rear",
+        "recommended_sku": 102453,
+        "sku_desc": "110/80-17 ZOOM XL TL 57P",
+        "alt_skus": [
+          106385
+        ]
+      },
+      {
+        "type": "Front",
+        "recommended_sku": 106207,
+        "sku_desc": "80/100-17 ZOOM X3 F TL 46P",
+        "alt_skus": [
+          105169,
+          106501,
+          106517
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 61,
+    "text": "Honda Unicorn 160 cc\nRear Tyre — SKU 102453: 110/80-17 ZOOM XL TL 57P | Alt SKUs: 106385\nFront Tyre — SKU 106207: 80/100-17 ZOOM X3 F TL 46P | Alt SKUs: 105169, 106501, 106517",
+    "category": "Motorcycle",
+    "brand": "Honda",
+    "model": "Unicorn",
+    "variant": "160 cc",
+    "rows": [
+      {
+        "type": "Rear",
+        "recommended_sku": 102453,
+        "sku_desc": "110/80-17 ZOOM XL TL 57P",
+        "alt_skus": [
+          106385
+        ]
+      },
+      {
+        "type": "Front",
+        "recommended_sku": 106207,
+        "sku_desc": "80/100-17 ZOOM X3 F TL 46P",
+        "alt_skus": [
+          105169,
+          106501,
+          106517
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 62,
+    "text": "TVS Apache 160 cc\nRear Tyre — SKU 102453: 110/80-17 ZOOM XL TL 57P | Alt SKUs: 106385\nFront Tyre — SKU 106073: 90/90-17 ZOOM X3 F  TL 49P | Alt SKUs: 106760\nFront Tyre — SKU 106073: 90/90-17 ZOOM X3 F  TL 49P | Alt SKUs: 106760",
+    "category": "Motorcycle",
+    "brand": "TVS",
+    "model": "Apache",
+    "variant": "160 cc",
+    "rows": [
+      {
+        "type": "Rear",
+        "recommended_sku": 102453,
+        "sku_desc": "110/80-17 ZOOM XL TL 57P",
+        "alt_skus": [
+          106385
+        ]
+      },
+      {
+        "type": "Front",
+        "recommended_sku": 106073,
+        "sku_desc": "90/90-17 ZOOM X3 F  TL 49P",
+        "alt_skus": [
+          106760
+        ]
+      },
+      {
+        "type": "Front",
+        "recommended_sku": 106073,
+        "sku_desc": "90/90-17 ZOOM X3 F  TL 49P",
+        "alt_skus": [
+          106760
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 63,
+    "text": "TVS Apache 180 cc\nRear Tyre — SKU 102453: 110/80-17 ZOOM XL TL 57P | Alt SKUs: 106385",
+    "category": "Motorcycle",
+    "brand": "TVS",
+    "model": "Apache",
+    "variant": "180 cc",
+    "rows": [
+      {
+        "type": "Rear",
+        "recommended_sku": 102453,
+        "sku_desc": "110/80-17 ZOOM XL TL 57P",
+        "alt_skus": [
+          106385
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 64,
+    "text": "Hero Impulse 150 cc\nFront Tyre — SKU 103033: 90/90-19 ZOOM PLUS F  TT 52P",
+    "category": "Motorcycle",
+    "brand": "Hero",
+    "model": "Impulse",
+    "variant": "150 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 103033,
+        "sku_desc": "90/90-19 ZOOM PLUS F  TT 52P",
+        "alt_skus": []
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 65,
+    "text": "Royal Enfield Classic 350 cc\nFront Tyre — SKU 103033: 90/90-19 ZOOM PLUS F  TT 52P | Alt SKUs: 102322\nRear Tyre — SKU 106718: 110/90-18 GRIPP XL TT 61P | Alt SKUs: 103034",
+    "category": "Motorcycle",
+    "brand": "Royal Enfield",
+    "model": "Classic",
+    "variant": "350 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 103033,
+        "sku_desc": "90/90-19 ZOOM PLUS F  TT 52P",
+        "alt_skus": [
+          102322
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 106718,
+        "sku_desc": "110/90-18 GRIPP XL TT 61P",
+        "alt_skus": [
+          103034
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 66,
+    "text": "Royal Enfield Thunderbird 350 cc\nFront Tyre — SKU 103033: 90/90-19 ZOOM PLUS F  TT 52P | Alt SKUs: 102322\nRear Tyre — SKU 106718: 110/90-18 GRIPP XL TT 61P | Alt SKUs: 103034",
+    "category": "Motorcycle",
+    "brand": "Royal Enfield",
+    "model": "Thunderbird",
+    "variant": "350 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 103033,
+        "sku_desc": "90/90-19 ZOOM PLUS F  TT 52P",
+        "alt_skus": [
+          102322
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 106718,
+        "sku_desc": "110/90-18 GRIPP XL TT 61P",
+        "alt_skus": [
+          103034
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 67,
+    "text": "Royal Enfield Classic 500 cc\nFront Tyre — SKU 103033: 90/90-19 ZOOM PLUS F  TT 52P | Alt SKUs: 102322\nRear Tyre — SKU 106202: 120/80-18 GRIPP XL TL 62P | Alt SKUs: 103035",
+    "category": "Motorcycle",
+    "brand": "Royal Enfield",
+    "model": "Classic",
+    "variant": "500 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 103033,
+        "sku_desc": "90/90-19 ZOOM PLUS F  TT 52P",
+        "alt_skus": [
+          102322
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 106202,
+        "sku_desc": "120/80-18 GRIPP XL TL 62P",
+        "alt_skus": [
+          103035
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 68,
+    "text": "Royal Enfield Thunderbird 500 cc\nFront Tyre — SKU 103033: 90/90-19 ZOOM PLUS F  TT 52P | Alt SKUs: 102322\nRear Tyre — SKU 106202: 120/80-18 GRIPP XL TL 62P | Alt SKUs: 103035",
+    "category": "Motorcycle",
+    "brand": "Royal Enfield",
+    "model": "Thunderbird",
+    "variant": "500 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 103033,
+        "sku_desc": "90/90-19 ZOOM PLUS F  TT 52P",
+        "alt_skus": [
+          102322
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 106202,
+        "sku_desc": "120/80-18 GRIPP XL TL 62P",
+        "alt_skus": [
+          103035
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 69,
+    "text": "Bajaj Pulsar NS 200 cc\nRear Tyre — SKU 103061: 130/70-17 ZOOM XL TL 62P\nFront Tyre — SKU 103742: 100/80-17 ZOOM PLUS F TL 52P SZ | Alt SKUs: 102502, 106502",
+    "category": "Motorcycle",
+    "brand": "Bajaj",
+    "model": "Pulsar",
+    "variant": "NS 200 cc",
+    "rows": [
+      {
+        "type": "Rear",
+        "recommended_sku": 103061,
+        "sku_desc": "130/70-17 ZOOM XL TL 62P",
+        "alt_skus": []
+      },
+      {
+        "type": "Front",
+        "recommended_sku": 103742,
+        "sku_desc": "100/80-17 ZOOM PLUS F TL 52P SZ",
+        "alt_skus": [
+          102502,
+          106502
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 70,
+    "text": "Bajaj Pulsar RS 200 cc\nRear Tyre — SKU 103061: 130/70-17 ZOOM XL TL 62P\nFront Tyre — SKU 103742: 100/80-17 ZOOM PLUS F TL 52P SZ | Alt SKUs: 102502, 106502",
+    "category": "Motorcycle",
+    "brand": "Bajaj",
+    "model": "Pulsar",
+    "variant": "RS 200 cc",
+    "rows": [
+      {
+        "type": "Rear",
+        "recommended_sku": 103061,
+        "sku_desc": "130/70-17 ZOOM XL TL 62P",
+        "alt_skus": []
+      },
+      {
+        "type": "Front",
+        "recommended_sku": 103742,
+        "sku_desc": "100/80-17 ZOOM PLUS F TL 52P SZ",
+        "alt_skus": [
+          102502,
+          106502
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 71,
+    "text": "Honda CBR 150 cc\nRear Tyre — SKU 103061: 130/70-17 ZOOM XL TL 62P",
+    "category": "Motorcycle",
+    "brand": "Honda",
+    "model": "CBR",
+    "variant": "150 cc",
+    "rows": [
+      {
+        "type": "Rear",
+        "recommended_sku": 103061,
+        "sku_desc": "130/70-17 ZOOM XL TL 62P",
+        "alt_skus": []
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 72,
+    "text": "Honda Xblade 160 cc\nRear Tyre — SKU 103061: 130/70-17 ZOOM XL TL 62P\nFront Tyre — SKU 106207: 80/100-17 ZOOM X3 F TL 46P | Alt SKUs: 105169, 106501, 106517",
+    "category": "Motorcycle",
+    "brand": "Honda",
+    "model": "Xblade",
+    "variant": "160 cc",
+    "rows": [
+      {
+        "type": "Rear",
+        "recommended_sku": 103061,
+        "sku_desc": "130/70-17 ZOOM XL TL 62P",
+        "alt_skus": []
+      },
+      {
+        "type": "Front",
+        "recommended_sku": 106207,
+        "sku_desc": "80/100-17 ZOOM X3 F TL 46P",
+        "alt_skus": [
+          105169,
+          106501,
+          106517
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 73,
+    "text": "TVS Apache 200 cc\nRear Tyre — SKU 103061: 130/70-17 ZOOM XL TL 62P\nFront Tyre — SKU 106073: 90/90-17 ZOOM X3 F  TL 49P | Alt SKUs: 106760",
+    "category": "Motorcycle",
+    "brand": "TVS",
+    "model": "Apache",
+    "variant": "200 cc",
+    "rows": [
+      {
+        "type": "Rear",
+        "recommended_sku": 103061,
+        "sku_desc": "130/70-17 ZOOM XL TL 62P",
+        "alt_skus": []
+      },
+      {
+        "type": "Front",
+        "recommended_sku": 106073,
+        "sku_desc": "90/90-17 ZOOM X3 F  TL 49P",
+        "alt_skus": [
+          106760
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 74,
+    "text": "Hero Xpulse 200 cc\nFront Tyre — SKU 103172: 90/90-21 GRIPP XL F TT 54S RE\nRear Tyre — SKU 106202: 120/80-18 GRIPP XL TL 62P | Alt SKUs: 103035",
+    "category": "Motorcycle",
+    "brand": "Hero",
+    "model": "Xpulse",
+    "variant": "200 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 103172,
+        "sku_desc": "90/90-21 GRIPP XL F TT 54S RE",
+        "alt_skus": []
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 106202,
+        "sku_desc": "120/80-18 GRIPP XL TL 62P",
+        "alt_skus": [
+          103035
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 75,
+    "text": "Honda AFRICA TWIN 1000 cc\nFront Tyre — SKU 103172: 90/90-21 GRIPP XL F TT 54S RE",
+    "category": "Motorcycle",
+    "brand": "Honda",
+    "model": "AFRICA TWIN",
+    "variant": "1000 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 103172,
+        "sku_desc": "90/90-21 GRIPP XL F TT 54S RE",
+        "alt_skus": []
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 76,
+    "text": "Royal Enfield Himalayan 411 cc\nFront Tyre — SKU 103172: 90/90-21 GRIPP XL F TT 54S RE\nRear Tyre — SKU 107820: 120/90-17 GRIPP XL PLUS 64S TT",
+    "category": "Motorcycle",
+    "brand": "Royal Enfield",
+    "model": "Himalayan",
+    "variant": "411 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 103172,
+        "sku_desc": "90/90-21 GRIPP XL F TT 54S RE",
+        "alt_skus": []
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 107820,
+        "sku_desc": "120/90-17 GRIPP XL PLUS 64S TT",
+        "alt_skus": []
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 77,
+    "text": "Hero Xtreme 200 cc\nFront Tyre — SKU 103742: 100/80-17 ZOOM PLUS F TL 52P SZ | Alt SKUs: 106502\nRear Tyre — SKU 104975: 130/70R17 ZOOM RAD TL 62H",
+    "category": "Motorcycle",
+    "brand": "Hero",
+    "model": "Xtreme",
+    "variant": "200 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 103742,
+        "sku_desc": "100/80-17 ZOOM PLUS F TL 52P SZ",
+        "alt_skus": [
+          106502
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 104975,
+        "sku_desc": "130/70R17 ZOOM RAD TL 62H",
+        "alt_skus": []
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 78,
+    "text": "Hero Xpulse 200T\nFront Tyre — SKU 103742: 100/80-17 ZOOM PLUS F TL 52P SZ | Alt SKUs: 106502\nRear Tyre — SKU 104975: 130/70R17 ZOOM RAD TL 62H",
+    "category": "Motorcycle",
+    "brand": "Hero",
+    "model": "Xpulse",
+    "variant": "200T",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 103742,
+        "sku_desc": "100/80-17 ZOOM PLUS F TL 52P SZ",
+        "alt_skus": [
+          106502
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 104975,
+        "sku_desc": "130/70R17 ZOOM RAD TL 62H",
+        "alt_skus": []
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 79,
+    "text": "Honda Hornet 160R\nFront Tyre — SKU 103742: 100/80-17 ZOOM PLUS F TL 52P SZ | Alt SKUs: 106502\nRear Tyre — SKU 113263: 140/70-17 GRIPP X5 TL 66H | Alt SKUs: 101824, 106388, 105808, 106361",
+    "category": "Motorcycle",
+    "brand": "Honda",
+    "model": "Hornet",
+    "variant": "160R",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 103742,
+        "sku_desc": "100/80-17 ZOOM PLUS F TL 52P SZ",
+        "alt_skus": [
+          106502
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113263,
+        "sku_desc": "140/70-17 GRIPP X5 TL 66H",
+        "alt_skus": [
+          101824,
+          106388,
+          105808,
+          106361
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 80,
+    "text": "Yamaha FZ 16 150 cc\nFront Tyre — SKU 103742: 100/80-17 ZOOM PLUS F TL 52P SZ | Alt SKUs: 106502\nRear Tyre — SKU 113709: 140/60R17 CROSSRAD TL 63H | Alt SKUs: 107819",
+    "category": "Motorcycle",
+    "brand": "Yamaha",
+    "model": "FZ 16",
+    "variant": "150 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 103742,
+        "sku_desc": "100/80-17 ZOOM PLUS F TL 52P SZ",
+        "alt_skus": [
+          106502
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113709,
+        "sku_desc": "140/60R17 CROSSRAD TL 63H",
+        "alt_skus": [
+          107819
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 81,
+    "text": "Yamaha Fazer 150 cc\nFront Tyre — SKU 103742: 100/80-17 ZOOM PLUS F TL 52P SZ | Alt SKUs: 106502\nRear Tyre — SKU 113709: 140/60R17 CROSSRAD TL 63H | Alt SKUs: 107819",
+    "category": "Motorcycle",
+    "brand": "Yamaha",
+    "model": "Fazer",
+    "variant": "150 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 103742,
+        "sku_desc": "100/80-17 ZOOM PLUS F TL 52P SZ",
+        "alt_skus": [
+          106502
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113709,
+        "sku_desc": "140/60R17 CROSSRAD TL 63H",
+        "alt_skus": [
+          107819
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 82,
+    "text": "Yamaha FZ25 250 cc\nFront Tyre — SKU 103742: 100/80-17 ZOOM PLUS F TL 52P SZ | Alt SKUs: 106502\nRear Tyre — SKU 113263: 140/70-17 GRIPP X5 TL 66H | Alt SKUs: 101824, 106388, 105808, 106361",
+    "category": "Motorcycle",
+    "brand": "Yamaha",
+    "model": "FZ25",
+    "variant": "250 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 103742,
+        "sku_desc": "100/80-17 ZOOM PLUS F TL 52P SZ",
+        "alt_skus": [
+          106502
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113263,
+        "sku_desc": "140/70-17 GRIPP X5 TL 66H",
+        "alt_skus": [
+          101824,
+          106388,
+          105808,
+          106361
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 83,
+    "text": "Yamaha MT15 MT15\nFront Tyre — SKU 103742: 100/80-17 ZOOM PLUS F TL 52P SZ | Alt SKUs: 106502\nRear Tyre — SKU 113263: 140/70-17 GRIPP X5 TL 66H | Alt SKUs: 101824, 106388, 105808, 106361",
+    "category": "Motorcycle",
+    "brand": "Yamaha",
+    "model": "MT15",
+    "variant": "MT15",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 103742,
+        "sku_desc": "100/80-17 ZOOM PLUS F TL 52P SZ",
+        "alt_skus": [
+          106502
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113263,
+        "sku_desc": "140/70-17 GRIPP X5 TL 66H",
+        "alt_skus": [
+          101824,
+          106388,
+          105808,
+          106361
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 84,
+    "text": "Yamaha R15 155 cc\nFront Tyre — SKU 103742: 100/80-17 ZOOM PLUS F TL 52P SZ | Alt SKUs: 106502\nRear Tyre — SKU 113263: 140/70-17 GRIPP X5 TL 66H | Alt SKUs: 101824, 106388, 105808, 106361",
+    "category": "Motorcycle",
+    "brand": "Yamaha",
+    "model": "R15",
+    "variant": "155 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 103742,
+        "sku_desc": "100/80-17 ZOOM PLUS F TL 52P SZ",
+        "alt_skus": [
+          106502
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113263,
+        "sku_desc": "140/70-17 GRIPP X5 TL 66H",
+        "alt_skus": [
+          101824,
+          106388,
+          105808,
+          106361
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 85,
+    "text": "Suzuki Gixxer 155 cc\nFront Tyre — SKU 103742: 100/80-17 ZOOM PLUS F TL 52P SZ | Alt SKUs: 106502\nRear Tyre — SKU 113709: 140/60R17 CROSSRAD TL 63H | Alt SKUs: 107819",
+    "category": "Motorcycle",
+    "brand": "Suzuki",
+    "model": "Gixxer",
+    "variant": "155 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 103742,
+        "sku_desc": "100/80-17 ZOOM PLUS F TL 52P SZ",
+        "alt_skus": [
+          106502
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113709,
+        "sku_desc": "140/60R17 CROSSRAD TL 63H",
+        "alt_skus": [
+          107819
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 86,
+    "text": "Suzuki Intruder 155 cc\nFront Tyre — SKU 103742: 100/80-17 ZOOM PLUS F TL 52P SZ | Alt SKUs: 106502\nRear Tyre — SKU 113709: 140/60R17 CROSSRAD TL 63H | Alt SKUs: 107819",
+    "category": "Motorcycle",
+    "brand": "Suzuki",
+    "model": "Intruder",
+    "variant": "155 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 103742,
+        "sku_desc": "100/80-17 ZOOM PLUS F TL 52P SZ",
+        "alt_skus": [
+          106502
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113709,
+        "sku_desc": "140/60R17 CROSSRAD TL 63H",
+        "alt_skus": [
+          107819
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 87,
+    "text": "Bajaj KTM Duke 200 cc\nRear Tyre — SKU 113496: 150/60ZR17 SPORTRAD TL 66W | Alt SKUs: 104974\nFront Tyre — SKU 113494: 110/70ZR17 SPORTRAD TL 54W | Alt SKUs: 104976",
+    "category": "Motorcycle",
+    "brand": "Bajaj",
+    "model": "KTM Duke",
+    "variant": "200 cc",
+    "rows": [
+      {
+        "type": "Rear",
+        "recommended_sku": 113496,
+        "sku_desc": "150/60ZR17 SPORTRAD TL 66W",
+        "alt_skus": [
+          104974
+        ]
+      },
+      {
+        "type": "Front",
+        "recommended_sku": 113494,
+        "sku_desc": "110/70ZR17 SPORTRAD TL 54W",
+        "alt_skus": [
+          104976
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 88,
+    "text": "Bajaj KTM Duke 250 cc\nRear Tyre — SKU 113496: 150/60ZR17 SPORTRAD TL 66W | Alt SKUs: 104974\nFront Tyre — SKU 113494: 110/70ZR17 SPORTRAD TL 54W | Alt SKUs: 104976",
+    "category": "Motorcycle",
+    "brand": "Bajaj",
+    "model": "KTM Duke",
+    "variant": "250 cc",
+    "rows": [
+      {
+        "type": "Rear",
+        "recommended_sku": 113496,
+        "sku_desc": "150/60ZR17 SPORTRAD TL 66W",
+        "alt_skus": [
+          104974
+        ]
+      },
+      {
+        "type": "Front",
+        "recommended_sku": 113494,
+        "sku_desc": "110/70ZR17 SPORTRAD TL 54W",
+        "alt_skus": [
+          104976
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 89,
+    "text": "Bajaj KTM Duke 390 cc\nRear Tyre — SKU 113496: 150/60ZR17 SPORTRAD TL 66W | Alt SKUs: 104974\nFront Tyre — SKU 113494: 110/70ZR17 SPORTRAD TL 54W | Alt SKUs: 104976",
+    "category": "Motorcycle",
+    "brand": "Bajaj",
+    "model": "KTM Duke",
+    "variant": "390 cc",
+    "rows": [
+      {
+        "type": "Rear",
+        "recommended_sku": 113496,
+        "sku_desc": "150/60ZR17 SPORTRAD TL 66W",
+        "alt_skus": [
+          104974
+        ]
+      },
+      {
+        "type": "Front",
+        "recommended_sku": 113494,
+        "sku_desc": "110/70ZR17 SPORTRAD TL 54W",
+        "alt_skus": [
+          104976
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 90,
+    "text": "Bajaj KTM Duke 125 cc\nRear Tyre — SKU 113496: 150/60ZR17 SPORTRAD TL 66W | Alt SKUs: 104974\nFront Tyre — SKU 113494: 110/70ZR17 SPORTRAD TL 54W | Alt SKUs: 104976",
+    "category": "Motorcycle",
+    "brand": "Bajaj",
+    "model": "KTM Duke",
+    "variant": "125 cc",
+    "rows": [
+      {
+        "type": "Rear",
+        "recommended_sku": 113496,
+        "sku_desc": "150/60ZR17 SPORTRAD TL 66W",
+        "alt_skus": [
+          104974
+        ]
+      },
+      {
+        "type": "Front",
+        "recommended_sku": 113494,
+        "sku_desc": "110/70ZR17 SPORTRAD TL 54W",
+        "alt_skus": [
+          104976
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 91,
+    "text": "Bajaj Dominar 400 cc\nRear Tyre — SKU 113496: 150/60ZR17 SPORTRAD TL 66W | Alt SKUs: 104974\nFront Tyre — SKU 113494: 110/70ZR17 SPORTRAD TL 54W | Alt SKUs: 104976",
+    "category": "Motorcycle",
+    "brand": "Bajaj",
+    "model": "Dominar",
+    "variant": "400 cc",
+    "rows": [
+      {
+        "type": "Rear",
+        "recommended_sku": 113496,
+        "sku_desc": "150/60ZR17 SPORTRAD TL 66W",
+        "alt_skus": [
+          104974
+        ]
+      },
+      {
+        "type": "Front",
+        "recommended_sku": 113494,
+        "sku_desc": "110/70ZR17 SPORTRAD TL 54W",
+        "alt_skus": [
+          104976
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 92,
+    "text": "Honda CBR 300R\nRear Tyre — SKU 113496: 150/60ZR17 SPORTRAD TL 66W | Alt SKUs: 104974\nFront Tyre — SKU 113494: 110/70ZR17 SPORTRAD TL 54W | Alt SKUs: 104976",
+    "category": "Motorcycle",
+    "brand": "Honda",
+    "model": "CBR",
+    "variant": "300R",
+    "rows": [
+      {
+        "type": "Rear",
+        "recommended_sku": 113496,
+        "sku_desc": "150/60ZR17 SPORTRAD TL 66W",
+        "alt_skus": [
+          104974
+        ]
+      },
+      {
+        "type": "Front",
+        "recommended_sku": 113494,
+        "sku_desc": "110/70ZR17 SPORTRAD TL 54W",
+        "alt_skus": [
+          104976
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 93,
+    "text": "Kawasaki Ninja 400 cc\nRear Tyre — SKU 113496: 150/60ZR17 SPORTRAD TL 66W | Alt SKUs: 104974\nFront Tyre — SKU 113494: 110/70ZR17 SPORTRAD TL 54W | Alt SKUs: 104976",
+    "category": "Motorcycle",
+    "brand": "Kawasaki",
+    "model": "Ninja",
+    "variant": "400 cc",
+    "rows": [
+      {
+        "type": "Rear",
+        "recommended_sku": 113496,
+        "sku_desc": "150/60ZR17 SPORTRAD TL 66W",
+        "alt_skus": [
+          104974
+        ]
+      },
+      {
+        "type": "Front",
+        "recommended_sku": 113494,
+        "sku_desc": "110/70ZR17 SPORTRAD TL 54W",
+        "alt_skus": [
+          104976
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 94,
+    "text": "Mahindra Mojo 300 cc\nRear Tyre — SKU 113496: 150/60ZR17 SPORTRAD TL 66W | Alt SKUs: 104974\nFront Tyre — SKU 113494: 110/70ZR17 SPORTRAD TL 54W | Alt SKUs: 104976",
+    "category": "Motorcycle",
+    "brand": "Mahindra",
+    "model": "Mojo",
+    "variant": "300 cc",
+    "rows": [
+      {
+        "type": "Rear",
+        "recommended_sku": 113496,
+        "sku_desc": "150/60ZR17 SPORTRAD TL 66W",
+        "alt_skus": [
+          104974
+        ]
+      },
+      {
+        "type": "Front",
+        "recommended_sku": 113494,
+        "sku_desc": "110/70ZR17 SPORTRAD TL 54W",
+        "alt_skus": [
+          104976
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 95,
+    "text": "Suzuki Gixxer 250 cc\nRear Tyre — SKU 113496: 150/60ZR17 SPORTRAD TL 66W | Alt SKUs: 104974\nFront Tyre — SKU 113494: 110/70ZR17 SPORTRAD TL 54W | Alt SKUs: 104976",
+    "category": "Motorcycle",
+    "brand": "Suzuki",
+    "model": "Gixxer",
+    "variant": "250 cc",
+    "rows": [
+      {
+        "type": "Rear",
+        "recommended_sku": 113496,
+        "sku_desc": "150/60ZR17 SPORTRAD TL 66W",
+        "alt_skus": [
+          104974
+        ]
+      },
+      {
+        "type": "Front",
+        "recommended_sku": 113494,
+        "sku_desc": "110/70ZR17 SPORTRAD TL 54W",
+        "alt_skus": [
+          104976
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 96,
+    "text": "TVS Apache RR 310\nRear Tyre — SKU 113496: 150/60ZR17 SPORTRAD TL 66W | Alt SKUs: 104974\nFront Tyre — SKU 113494: 110/70ZR17 SPORTRAD TL 54W | Alt SKUs: 104976",
+    "category": "Motorcycle",
+    "brand": "TVS",
+    "model": "Apache",
+    "variant": "RR 310",
+    "rows": [
+      {
+        "type": "Rear",
+        "recommended_sku": 113496,
+        "sku_desc": "150/60ZR17 SPORTRAD TL 66W",
+        "alt_skus": [
+          104974
+        ]
+      },
+      {
+        "type": "Front",
+        "recommended_sku": 113494,
+        "sku_desc": "110/70ZR17 SPORTRAD TL 54W",
+        "alt_skus": [
+          104976
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 97,
+    "text": "Bajaj KTM RC 200 cc\nRear Tyre — SKU 113496: 150/60ZR17 SPORTRAD TL 66W | Alt SKUs: 104974\nFront Tyre — SKU 113494: 110/70ZR17 SPORTRAD TL 54W | Alt SKUs: 104976",
+    "category": "Motorcycle",
+    "brand": "Bajaj",
+    "model": "KTM RC",
+    "variant": "200 cc",
+    "rows": [
+      {
+        "type": "Rear",
+        "recommended_sku": 113496,
+        "sku_desc": "150/60ZR17 SPORTRAD TL 66W",
+        "alt_skus": [
+          104974
+        ]
+      },
+      {
+        "type": "Front",
+        "recommended_sku": 113494,
+        "sku_desc": "110/70ZR17 SPORTRAD TL 54W",
+        "alt_skus": [
+          104976
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 98,
+    "text": "Bajaj KTM RC 250 cc\nRear Tyre — SKU 113496: 150/60ZR17 SPORTRAD TL 66W | Alt SKUs: 104974\nFront Tyre — SKU 113494: 110/70ZR17 SPORTRAD TL 54W | Alt SKUs: 104976",
+    "category": "Motorcycle",
+    "brand": "Bajaj",
+    "model": "KTM RC",
+    "variant": "250 cc",
+    "rows": [
+      {
+        "type": "Rear",
+        "recommended_sku": 113496,
+        "sku_desc": "150/60ZR17 SPORTRAD TL 66W",
+        "alt_skus": [
+          104974
+        ]
+      },
+      {
+        "type": "Front",
+        "recommended_sku": 113494,
+        "sku_desc": "110/70ZR17 SPORTRAD TL 54W",
+        "alt_skus": [
+          104976
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 99,
+    "text": "Bajaj KTM RC 390 cc\nRear Tyre — SKU 113496: 150/60ZR17 SPORTRAD TL 66W | Alt SKUs: 104974\nFront Tyre — SKU 113494: 110/70ZR17 SPORTRAD TL 54W | Alt SKUs: 104976",
+    "category": "Motorcycle",
+    "brand": "Bajaj",
+    "model": "KTM RC",
+    "variant": "390 cc",
+    "rows": [
+      {
+        "type": "Rear",
+        "recommended_sku": 113496,
+        "sku_desc": "150/60ZR17 SPORTRAD TL 66W",
+        "alt_skus": [
+          104974
+        ]
+      },
+      {
+        "type": "Front",
+        "recommended_sku": 113494,
+        "sku_desc": "110/70ZR17 SPORTRAD TL 54W",
+        "alt_skus": [
+          104976
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 100,
+    "text": "Bajaj KTM RC 125 cc\nRear Tyre — SKU 113496: 150/60ZR17 SPORTRAD TL 66W | Alt SKUs: 104974\nFront Tyre — SKU 113494: 110/70ZR17 SPORTRAD TL 54W | Alt SKUs: 104976",
+    "category": "Motorcycle",
+    "brand": "Bajaj",
+    "model": "KTM RC",
+    "variant": "125 cc",
+    "rows": [
+      {
+        "type": "Rear",
+        "recommended_sku": 113496,
+        "sku_desc": "150/60ZR17 SPORTRAD TL 66W",
+        "alt_skus": [
+          104974
+        ]
+      },
+      {
+        "type": "Front",
+        "recommended_sku": 113494,
+        "sku_desc": "110/70ZR17 SPORTRAD TL 54W",
+        "alt_skus": [
+          104976
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 101,
+    "text": "Bajaj Dominar 250 cc\nRear Tyre — SKU 113496: 150/60ZR17 SPORTRAD TL 66W | Alt SKUs: 104974\nFront Tyre — SKU 113494: 110/70ZR17 SPORTRAD TL 54W | Alt SKUs: 104976",
+    "category": "Motorcycle",
+    "brand": "Bajaj",
+    "model": "Dominar",
+    "variant": "250 cc",
+    "rows": [
+      {
+        "type": "Rear",
+        "recommended_sku": 113496,
+        "sku_desc": "150/60ZR17 SPORTRAD TL 66W",
+        "alt_skus": [
+          104974
+        ]
+      },
+      {
+        "type": "Front",
+        "recommended_sku": 113494,
+        "sku_desc": "110/70ZR17 SPORTRAD TL 54W",
+        "alt_skus": [
+          104976
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 102,
+    "text": "Yamaha YZF R15 150 cc\nRear Tyre — SKU 104975: 130/70R17 ZOOM RAD TL 62H",
+    "category": "Motorcycle",
+    "brand": "Yamaha",
+    "model": "YZF R15",
+    "variant": "150 cc",
+    "rows": [
+      {
+        "type": "Rear",
+        "recommended_sku": 104975,
+        "sku_desc": "130/70R17 ZOOM RAD TL 62H",
+        "alt_skus": []
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 103,
+    "text": "Yamaha YZF R3 YZF R3\nFront Tyre — SKU 113494: 110/70ZR17 SPORTRAD TL 54W | Alt SKUs: 104976",
+    "category": "Motorcycle",
+    "brand": "Yamaha",
+    "model": "YZF R3",
+    "variant": "YZF R3",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 113494,
+        "sku_desc": "110/70ZR17 SPORTRAD TL 54W",
+        "alt_skus": [
+          104976
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 104,
+    "text": "Kawasaki Ninja 300 cc\nFront Tyre — SKU 113494: 110/70ZR17 SPORTRAD TL 54W | Alt SKUs: 104976",
+    "category": "Motorcycle",
+    "brand": "Kawasaki",
+    "model": "Ninja",
+    "variant": "300 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 113494,
+        "sku_desc": "110/70ZR17 SPORTRAD TL 54W",
+        "alt_skus": [
+          104976
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 105,
+    "text": "Royal Enfield Meteor 350 cc\nFront Tyre — SKU 105726: 100/90-19 ZOOM PLUS F TL 57 P\nRear Tyre — SKU 105808: 140/70-17 ZOOM PLUS  TL 66P | Alt SKUs: 106388, 101824, 106361",
+    "category": "Motorcycle",
+    "brand": "Royal Enfield",
+    "model": "Meteor",
+    "variant": "350 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 105726,
+        "sku_desc": "100/90-19 ZOOM PLUS F TL 57 P",
+        "alt_skus": []
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 105808,
+        "sku_desc": "140/70-17 ZOOM PLUS  TL 66P",
+        "alt_skus": [
+          106388,
+          101824,
+          106361
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 106,
+    "text": "Honda Hness 350 cc\nFront Tyre — SKU 105726: 100/90-19 ZOOM PLUS F TL 57 P",
+    "category": "Motorcycle",
+    "brand": "Honda",
+    "model": "Hness",
+    "variant": "350 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 105726,
+        "sku_desc": "100/90-19 ZOOM PLUS F TL 57 P",
+        "alt_skus": []
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 107,
+    "text": "Bajaj Avenger 220 cc\nFront Tyre — SKU 106073: 90/90-17 ZOOM X3 F  TL 49P | Alt SKUs: 106760\nRear Tyre — SKU 106209: 130/90-15 ZOOM X3 TL 66P",
+    "category": "Motorcycle",
+    "brand": "Bajaj",
+    "model": "Avenger",
+    "variant": "220 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 106073,
+        "sku_desc": "90/90-17 ZOOM X3 F  TL 49P",
+        "alt_skus": [
+          106760
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 106209,
+        "sku_desc": "130/90-15 ZOOM X3 TL 66P",
+        "alt_skus": []
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 108,
+    "text": "Bajaj Avenger 160 cc\nFront Tyre — SKU 106073: 90/90-17 ZOOM X3 F  TL 49P | Alt SKUs: 106760\nRear Tyre — SKU 106209: 130/90-15 ZOOM X3 TL 66P",
+    "category": "Motorcycle",
+    "brand": "Bajaj",
+    "model": "Avenger",
+    "variant": "160 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 106073,
+        "sku_desc": "90/90-17 ZOOM X3 F  TL 49P",
+        "alt_skus": [
+          106760
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 106209,
+        "sku_desc": "130/90-15 ZOOM X3 TL 66P",
+        "alt_skus": []
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 109,
+    "text": "Bajaj Avenger 150 cc\nFront Tyre — SKU 106073: 90/90-17 ZOOM X3 F  TL 49P | Alt SKUs: 106760\nRear Tyre — SKU 106209: 130/90-15 ZOOM X3 TL 66P",
+    "category": "Motorcycle",
+    "brand": "Bajaj",
+    "model": "Avenger",
+    "variant": "150 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 106073,
+        "sku_desc": "90/90-17 ZOOM X3 F  TL 49P",
+        "alt_skus": [
+          106760
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 106209,
+        "sku_desc": "130/90-15 ZOOM X3 TL 66P",
+        "alt_skus": []
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 110,
+    "text": "Bajaj Pulsar 150 cc Twin Disc\nFront Tyre — SKU 106073: 90/90-17 ZOOM X3 F  TL 49P | Alt SKUs: 106760\nRear Tyre — SKU 113264: 120/80-17 GRIPP X5 TL 61P | Alt SKUs: 106074",
+    "category": "Motorcycle",
+    "brand": "Bajaj",
+    "model": "Pulsar",
+    "variant": "150 cc Twin Disc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 106073,
+        "sku_desc": "90/90-17 ZOOM X3 F  TL 49P",
+        "alt_skus": [
+          106760
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113264,
+        "sku_desc": "120/80-17 GRIPP X5 TL 61P",
+        "alt_skus": [
+          106074
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 111,
+    "text": "Bajaj Pulsar 180 cc\nFront Tyre — SKU 106073: 90/90-17 ZOOM X3 F  TL 49P | Alt SKUs: 106760\nRear Tyre — SKU 113264: 120/80-17 GRIPP X5 TL 61P | Alt SKUs: 106074",
+    "category": "Motorcycle",
+    "brand": "Bajaj",
+    "model": "Pulsar",
+    "variant": "180 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 106073,
+        "sku_desc": "90/90-17 ZOOM X3 F  TL 49P",
+        "alt_skus": [
+          106760
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113264,
+        "sku_desc": "120/80-17 GRIPP X5 TL 61P",
+        "alt_skus": [
+          106074
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 112,
+    "text": "Bajaj Pulsar 160 cc\nFront Tyre — SKU 106073: 90/90-17 ZOOM X3 F  TL 49P | Alt SKUs: 106760\nRear Tyre — SKU 113264: 120/80-17 GRIPP X5 TL 61P | Alt SKUs: 106074",
+    "category": "Motorcycle",
+    "brand": "Bajaj",
+    "model": "Pulsar",
+    "variant": "160 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 106073,
+        "sku_desc": "90/90-17 ZOOM X3 F  TL 49P",
+        "alt_skus": [
+          106760
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113264,
+        "sku_desc": "120/80-17 GRIPP X5 TL 61P",
+        "alt_skus": [
+          106074
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 113,
+    "text": "Bajaj Pulsar 220 cc\nFront Tyre — SKU 106073: 90/90-17 ZOOM X3 F  TL 49P | Alt SKUs: 106760\nRear Tyre — SKU 113264: 120/80-17 GRIPP X5 TL 61P | Alt SKUs: 106074",
+    "category": "Motorcycle",
+    "brand": "Bajaj",
+    "model": "Pulsar",
+    "variant": "220 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 106073,
+        "sku_desc": "90/90-17 ZOOM X3 F  TL 49P",
+        "alt_skus": [
+          106760
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113264,
+        "sku_desc": "120/80-17 GRIPP X5 TL 61P",
+        "alt_skus": [
+          106074
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 114,
+    "text": "TVS Apache RTR 160 Hyper Edge\nFront Tyre — SKU 106073: 90/90-17 ZOOM X3 F  TL 49P | Alt SKUs: 106760\nRear Tyre — SKU 113265: 100/90-18 GRIPP X5 TL 56P",
+    "category": "Motorcycle",
+    "brand": "TVS",
+    "model": "Apache",
+    "variant": "RTR 160 Hyper Edge",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 106073,
+        "sku_desc": "90/90-17 ZOOM X3 F  TL 49P",
+        "alt_skus": [
+          106760
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113265,
+        "sku_desc": "100/90-18 GRIPP X5 TL 56P",
+        "alt_skus": []
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 115,
+    "text": "Royal Enfield Interceptor 650 cc\nFront Tyre — SKU 106205: 100/90-18 ZOOM CRUZ F TT 56H | Alt SKUs: 106360\nRear Tyre — SKU 106206: 130/70-18 ZOOM CRUZ TT 63H",
+    "category": "Motorcycle",
+    "brand": "Royal Enfield",
+    "model": "Interceptor",
+    "variant": "650 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 106205,
+        "sku_desc": "100/90-18 ZOOM CRUZ F TT 56H",
+        "alt_skus": [
+          106360
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 106206,
+        "sku_desc": "130/70-18 ZOOM CRUZ TT 63H",
+        "alt_skus": []
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 116,
+    "text": "Royal Enfield Continental GT 650 cc\nFront Tyre — SKU 106205: 100/90-18 ZOOM CRUZ F TT 56H | Alt SKUs: 106360\nRear Tyre — SKU 106206: 130/70-18 ZOOM CRUZ TT 63H",
+    "category": "Motorcycle",
+    "brand": "Royal Enfield",
+    "model": "Continental GT",
+    "variant": "650 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 106205,
+        "sku_desc": "100/90-18 ZOOM CRUZ F TT 56H",
+        "alt_skus": [
+          106360
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 106206,
+        "sku_desc": "130/70-18 ZOOM CRUZ TT 63H",
+        "alt_skus": []
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 117,
+    "text": "Bajaj Discover 150 cc\nFront Tyre — SKU 106207: 80/100-17 ZOOM X3 F TL 46P | Alt SKUs: 105169, 106501, 106517\nRear Tyre — SKU 113266: 100/90-17 GRIPP X5 TL 55P | Alt SKUs: 106210, 106503, 106761",
+    "category": "Motorcycle",
+    "brand": "Bajaj",
+    "model": "Discover",
+    "variant": "150 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 106207,
+        "sku_desc": "80/100-17 ZOOM X3 F TL 46P",
+        "alt_skus": [
+          105169,
+          106501,
+          106517
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113266,
+        "sku_desc": "100/90-17 GRIPP X5 TL 55P",
+        "alt_skus": [
+          106210,
+          106503,
+          106761
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 118,
+    "text": "Bajaj Pulsar 125 cc\nFront Tyre — SKU 106207: 80/100-17 ZOOM X3 F TL 46P | Alt SKUs: 105169, 106501, 106517\nRear Tyre — SKU 113266: 100/90-17 GRIPP X5 TL 55P | Alt SKUs: 106210, 106503, 106761",
+    "category": "Motorcycle",
+    "brand": "Bajaj",
+    "model": "Pulsar",
+    "variant": "125 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 106207,
+        "sku_desc": "80/100-17 ZOOM X3 F TL 46P",
+        "alt_skus": [
+          105169,
+          106501,
+          106517
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113266,
+        "sku_desc": "100/90-17 GRIPP X5 TL 55P",
+        "alt_skus": [
+          106210,
+          106503,
+          106761
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 119,
+    "text": "Bajaj Pulsar 150 cc\nFront Tyre — SKU 106207: 80/100-17 ZOOM X3 F TL 46P | Alt SKUs: 105169, 106501, 106517\nRear Tyre — SKU 113266: 100/90-17 GRIPP X5 TL 55P | Alt SKUs: 106210, 106503, 106761",
+    "category": "Motorcycle",
+    "brand": "Bajaj",
+    "model": "Pulsar",
+    "variant": "150 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 106207,
+        "sku_desc": "80/100-17 ZOOM X3 F TL 46P",
+        "alt_skus": [
+          105169,
+          106501,
+          106517
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113266,
+        "sku_desc": "100/90-17 GRIPP X5 TL 55P",
+        "alt_skus": [
+          106210,
+          106503,
+          106761
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 120,
+    "text": "Hero Ignitor 125 cc\nFront Tyre — SKU 106207: 80/100-17 ZOOM X3 F TL 46P | Alt SKUs: 105169, 106501, 106517\nRear Tyre — SKU 113266: 100/90-17 GRIPP X5 TL 55P | Alt SKUs: 106210, 106503, 106761",
+    "category": "Motorcycle",
+    "brand": "Hero",
+    "model": "Ignitor",
+    "variant": "125 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 106207,
+        "sku_desc": "80/100-17 ZOOM X3 F TL 46P",
+        "alt_skus": [
+          105169,
+          106501,
+          106517
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113266,
+        "sku_desc": "100/90-17 GRIPP X5 TL 55P",
+        "alt_skus": [
+          106210,
+          106503,
+          106761
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 121,
+    "text": "Honda CBF Stunner 125 cc\nFront Tyre — SKU 106207: 80/100-17 ZOOM X3 F TL 46P | Alt SKUs: 105169, 106501, 106517\nRear Tyre — SKU 113266: 100/90-17 GRIPP X5 TL 55P | Alt SKUs: 106210, 106503, 106761",
+    "category": "Motorcycle",
+    "brand": "Honda",
+    "model": "CBF Stunner",
+    "variant": "125 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 106207,
+        "sku_desc": "80/100-17 ZOOM X3 F TL 46P",
+        "alt_skus": [
+          105169,
+          106501,
+          106517
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113266,
+        "sku_desc": "100/90-17 GRIPP X5 TL 55P",
+        "alt_skus": [
+          106210,
+          106503,
+          106761
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 122,
+    "text": "Bajaj Pulsar NS 125 cc\nFront Tyre — SKU 106207: 80/100-17 ZOOM X3 F TL 46P | Alt SKUs: 105169, 106501, 106517\nRear Tyre — SKU 113266: 100/90-17 GRIPP X5 TL 55P | Alt SKUs: 106210, 106503, 106761",
+    "category": "Motorcycle",
+    "brand": "Bajaj",
+    "model": "Pulsar",
+    "variant": "NS 125 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 106207,
+        "sku_desc": "80/100-17 ZOOM X3 F TL 46P",
+        "alt_skus": [
+          105169,
+          106501,
+          106517
+        ]
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113266,
+        "sku_desc": "100/90-17 GRIPP X5 TL 55P",
+        "alt_skus": [
+          106210,
+          106503,
+          106761
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 123,
+    "text": "Jawa Perak 350 cc\nFront Tyre — SKU 106360: 100/90-18 ZOOM CRUZ F  56 H TL\nRear Tyre — SKU 106361: 140/70-17 ZOOM CRUZ 66 H TL | Alt SKUs: 106388, 101824, 105808",
+    "category": "Motorcycle",
+    "brand": "Jawa",
+    "model": "Perak",
+    "variant": "350 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 106360,
+        "sku_desc": "100/90-18 ZOOM CRUZ F  56 H TL",
+        "alt_skus": []
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 106361,
+        "sku_desc": "140/70-17 ZOOM CRUZ 66 H TL",
+        "alt_skus": [
+          106388,
+          101824,
+          105808
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 124,
+    "text": "Honda CBR 250 cc\nRear Tyre — SKU 113263: 140/70-17 GRIPP X5 TL 66H | Alt SKUs: 101824, 106388, 105808, 106361",
+    "category": "Motorcycle",
+    "brand": "Honda",
+    "model": "CBR",
+    "variant": "250 cc",
+    "rows": [
+      {
+        "type": "Rear",
+        "recommended_sku": 113263,
+        "sku_desc": "140/70-17 GRIPP X5 TL 66H",
+        "alt_skus": [
+          101824,
+          106388,
+          105808,
+          106361
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 125,
+    "text": "Bajaj Calliber 100 cc\nRear Tyre — SKU 113310: 3.00-18 GRIPP X5 TT 52P | Alt SKUs: 102974, 101494, 105765",
+    "category": "Motorcycle",
+    "brand": "Bajaj",
+    "model": "Calliber",
+    "variant": "100 cc",
+    "rows": [
+      {
+        "type": "Rear",
+        "recommended_sku": 113310,
+        "sku_desc": "3.00-18 GRIPP X5 TT 52P",
+        "alt_skus": [
+          102974,
+          101494,
+          105765
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 126,
+    "text": "Aprilia RS 457 457 cc\nFront Tyre — SKU 113494: 110/70ZR17 SPORTRAD TL 54W | Alt SKUs: 104976\nFront Tyre — SKU 113496: 150/60ZR17 SPORTRAD TL 66W | Alt SKUs: 104974",
+    "category": "Motorcycle",
+    "brand": "Aprilia",
+    "model": "RS 457",
+    "variant": "457 cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 113494,
+        "sku_desc": "110/70ZR17 SPORTRAD TL 54W",
+        "alt_skus": [
+          104976
+        ]
+      },
+      {
+        "type": "Front",
+        "recommended_sku": 113496,
+        "sku_desc": "150/60ZR17 SPORTRAD TL 66W",
+        "alt_skus": [
+          104974
+        ]
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 127,
+    "text": "BMW  GS 310 310 CC\nFront Tyre — SKU 113577: 110/80R19 CROSSRAD TL 59V\nRear Tyre — SKU 113578: 150/70R17 CROSSRAD TL 69V",
+    "category": "Motorcycle",
+    "brand": "BMW ",
+    "model": "GS 310",
+    "variant": "310 CC",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 113577,
+        "sku_desc": "110/80R19 CROSSRAD TL 59V",
+        "alt_skus": []
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113578,
+        "sku_desc": "150/70R17 CROSSRAD TL 69V",
+        "alt_skus": []
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 128,
+    "text": "SUZUKI  V-STORM 650 645 CC\nFront Tyre — SKU 113577: 110/80R19 CROSSRAD TL 59V",
+    "category": "Motorcycle",
+    "brand": "SUZUKI ",
+    "model": "V-STORM 650",
+    "variant": "645 CC",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 113577,
+        "sku_desc": "110/80R19 CROSSRAD TL 59V",
+        "alt_skus": []
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 129,
+    "text": "SUZUKI  V-STORM 1000 1037 CC\nFront Tyre — SKU 113577: 110/80R19 CROSSRAD TL 59V",
+    "category": "Motorcycle",
+    "brand": "SUZUKI ",
+    "model": "V-STORM 1000",
+    "variant": "1037 CC",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 113577,
+        "sku_desc": "110/80R19 CROSSRAD TL 59V",
+        "alt_skus": []
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 130,
+    "text": "BMW  GS 750 853 CC\nRear Tyre — SKU 113578: 150/70R17 CROSSRAD TL 69V",
+    "category": "Motorcycle",
+    "brand": "BMW ",
+    "model": "GS 750",
+    "variant": "853 CC",
+    "rows": [
+      {
+        "type": "Rear",
+        "recommended_sku": 113578,
+        "sku_desc": "150/70R17 CROSSRAD TL 69V",
+        "alt_skus": []
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 131,
+    "text": "SUZUKI  VSTORM 650 645 CC\nRear Tyre — SKU 113578: 150/70R17 CROSSRAD TL 69V",
+    "category": "Motorcycle",
+    "brand": "SUZUKI ",
+    "model": "VSTORM 650",
+    "variant": "645 CC",
+    "rows": [
+      {
+        "type": "Rear",
+        "recommended_sku": 113578,
+        "sku_desc": "150/70R17 CROSSRAD TL 69V",
+        "alt_skus": []
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 132,
+    "text": "SUZUKI  VSTORM 650 1037 CC\nRear Tyre — SKU 113578: 150/70R17 CROSSRAD TL 69V",
+    "category": "Motorcycle",
+    "brand": "SUZUKI ",
+    "model": "VSTORM 650",
+    "variant": "1037 CC",
+    "rows": [
+      {
+        "type": "Rear",
+        "recommended_sku": 113578,
+        "sku_desc": "150/70R17 CROSSRAD TL 69V",
+        "alt_skus": []
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 133,
+    "text": "TRIUMPH  STREET SCRAMBLER 900 CC\nRear Tyre — SKU 113578: 150/70R17 CROSSRAD TL 69V",
+    "category": "Motorcycle",
+    "brand": "TRIUMPH ",
+    "model": "STREET SCRAMBLER",
+    "variant": "900 CC",
+    "rows": [
+      {
+        "type": "Rear",
+        "recommended_sku": 113578,
+        "sku_desc": "150/70R17 CROSSRAD TL 69V",
+        "alt_skus": []
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 134,
+    "text": "Kawasaki ZX-10R 998CC\nFront Tyre — SKU 113895: 120/70ZR17 SPORTRAD ST TL  58W\nRear Tyre — SKU 113921: 190/55ZR17 SPORTRAD ST 75W",
+    "category": "Motorcycle",
+    "brand": "Kawasaki",
+    "model": "ZX-10R",
+    "variant": "998CC",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 113895,
+        "sku_desc": "120/70ZR17 SPORTRAD ST TL  58W",
+        "alt_skus": []
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113921,
+        "sku_desc": "190/55ZR17 SPORTRAD ST 75W",
+        "alt_skus": []
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 135,
+    "text": "Kawasaki Versys 650 649CC\nFront Tyre — SKU 113895: 120/70ZR17 SPORTRAD ST TL  58W",
+    "category": "Motorcycle",
+    "brand": "Kawasaki",
+    "model": "Versys 650",
+    "variant": "649CC",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 113895,
+        "sku_desc": "120/70ZR17 SPORTRAD ST TL  58W",
+        "alt_skus": []
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 136,
+    "text": "Kawasaki Z650RS 649CC\nFront Tyre — SKU 113895: 120/70ZR17 SPORTRAD ST TL  58W",
+    "category": "Motorcycle",
+    "brand": "Kawasaki",
+    "model": "Z650RS",
+    "variant": "649CC",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 113895,
+        "sku_desc": "120/70ZR17 SPORTRAD ST TL  58W",
+        "alt_skus": []
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 137,
+    "text": "BMW  S1000R 999CC\nFront Tyre — SKU 113895: 120/70ZR17 SPORTRAD ST TL  58W\nRear Tyre — SKU 113921: 190/55ZR17 SPORTRAD ST 75W",
+    "category": "Motorcycle",
+    "brand": "BMW ",
+    "model": "S1000R",
+    "variant": "999CC",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 113895,
+        "sku_desc": "120/70ZR17 SPORTRAD ST TL  58W",
+        "alt_skus": []
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113921,
+        "sku_desc": "190/55ZR17 SPORTRAD ST 75W",
+        "alt_skus": []
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 138,
+    "text": "BMW  R1200RS 1170CC\nFront Tyre — SKU 113895: 120/70ZR17 SPORTRAD ST TL  58W\nRear Tyre — SKU 113896: 180/55ZR17 SPORTRAD ST TL  73W",
+    "category": "Motorcycle",
+    "brand": "BMW ",
+    "model": "R1200RS",
+    "variant": "1170CC",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 113895,
+        "sku_desc": "120/70ZR17 SPORTRAD ST TL  58W",
+        "alt_skus": []
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113896,
+        "sku_desc": "180/55ZR17 SPORTRAD ST TL  73W",
+        "alt_skus": []
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 139,
+    "text": "BMW  S1000XR 999CC\nFront Tyre — SKU 113895: 120/70ZR17 SPORTRAD ST TL  58W\nRear Tyre — SKU 113921: 190/55ZR17 SPORTRAD ST 75W",
+    "category": "Motorcycle",
+    "brand": "BMW ",
+    "model": "S1000XR",
+    "variant": "999CC",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 113895,
+        "sku_desc": "120/70ZR17 SPORTRAD ST TL  58W",
+        "alt_skus": []
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113921,
+        "sku_desc": "190/55ZR17 SPORTRAD ST 75W",
+        "alt_skus": []
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 140,
+    "text": "Suzuki GSX-R1000 999CC\nFront Tyre — SKU 113895: 120/70ZR17 SPORTRAD ST TL  58W\nRear Tyre — SKU 113921: 190/55ZR17 SPORTRAD ST 75W",
+    "category": "Motorcycle",
+    "brand": "Suzuki",
+    "model": "GSX-R1000",
+    "variant": "999CC",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 113895,
+        "sku_desc": "120/70ZR17 SPORTRAD ST TL  58W",
+        "alt_skus": []
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113921,
+        "sku_desc": "190/55ZR17 SPORTRAD ST 75W",
+        "alt_skus": []
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 141,
+    "text": "Royal Enfield Gureilla 450 452CC\nFront Tyre — SKU 113895: 120/70ZR17 SPORTRAD ST TL  58W",
+    "category": "Motorcycle",
+    "brand": "Royal Enfield",
+    "model": "Gureilla 450",
+    "variant": "452CC",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 113895,
+        "sku_desc": "120/70ZR17 SPORTRAD ST TL  58W",
+        "alt_skus": []
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 142,
+    "text": "Honda CBR650F 648CC\nFront Tyre — SKU 113895: 120/70ZR17 SPORTRAD ST TL  58W\nRear Tyre — SKU 113896: 180/55ZR17 SPORTRAD ST TL  73W",
+    "category": "Motorcycle",
+    "brand": "Honda",
+    "model": "CBR650F",
+    "variant": "648CC",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 113895,
+        "sku_desc": "120/70ZR17 SPORTRAD ST TL  58W",
+        "alt_skus": []
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113896,
+        "sku_desc": "180/55ZR17 SPORTRAD ST TL  73W",
+        "alt_skus": []
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 143,
+    "text": "KTM Duke 890CC\nFront Tyre — SKU 113895: 120/70ZR17 SPORTRAD ST TL  58W\nRear Tyre — SKU 113896: 180/55ZR17 SPORTRAD ST TL  73W",
+    "category": "Motorcycle",
+    "brand": "KTM",
+    "model": "Duke",
+    "variant": "890CC",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 113895,
+        "sku_desc": "120/70ZR17 SPORTRAD ST TL  58W",
+        "alt_skus": []
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 113896,
+        "sku_desc": "180/55ZR17 SPORTRAD ST TL  73W",
+        "alt_skus": []
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 144,
+    "text": "RE Himalayan 411cc\nRear Tyre — SKU 115113: 120/90-17 Gripp XC TT 64R",
+    "category": "Motorcycle",
+    "brand": "RE",
+    "model": "Himalayan",
+    "variant": "411cc",
+    "rows": [
+      {
+        "type": "Rear",
+        "recommended_sku": 115113,
+        "sku_desc": "120/90-17 Gripp XC TT 64R",
+        "alt_skus": []
+      }
+    ]
+  },
+  {
+    "source": "mcy-vehicle-sku-mapping-v18-14.04.2026.csv",
+    "chunk_index": 145,
+    "text": "RE Goan Classic 349cc\nFront Tyre — SKU 112903: 100/90-19 Zoom Classic F TL 63P\nRear Tyre — SKU 112902: 130/90-16 Zoom Classic TL 74P",
+    "category": "Motorcycle",
+    "brand": "RE",
+    "model": "Goan Classic",
+    "variant": "349cc",
+    "rows": [
+      {
+        "type": "Front",
+        "recommended_sku": 112903,
+        "sku_desc": "100/90-19 Zoom Classic F TL 63P",
+        "alt_skus": []
+      },
+      {
+        "type": "Rear",
+        "recommended_sku": 112902,
+        "sku_desc": "130/90-16 Zoom Classic TL 74P",
+        "alt_skus": []
+      }
+    ]
   }
 ]
