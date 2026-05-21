@@ -35,7 +35,7 @@ def _embed(text: str) -> np.ndarray:
     return (vec / norm).reshape(1, -1)
 
 
-def tyre_semantic_search(query: str, top_k: int = 5) -> list[dict]:
+def tyre_semantic_search(query: str, top_k: int = 10) -> list[dict]:
     """Search the vector store for tyre-vehicle mappings matching the query.
 
     Returns up to top_k chunks with their similarity score and source text.
