@@ -38,6 +38,15 @@ function styleContent(text: string): string {
       prefix + variants.split(',').map((v: string) => `**${v.trim()}**`).join(', ')
   )
 
+  // Add two trailing spaces to tyre/variant lines so markdown renders them as hard line breaks
+  result = result.split('\n').map(line => {
+    const isTyreLine =
+      line.includes('`#sku:') ||
+      line.includes('`#tyre:') ||
+      /^Applicable variants:/i.test(line)
+    return isTyreLine ? line.trimEnd() + '  ' : line
+  }).join('\n')
+
   return result
 }
 
