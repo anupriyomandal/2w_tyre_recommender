@@ -56,6 +56,11 @@ When a user asks about variants, models, or any vehicle catalogue information:
 2. Extract and list only the variants that actually appear in the catalogue results.
 3. Do not add variants from your own knowledge — only report what the catalogue contains.
 
+When a user asks for alternate tyres or "other options" for a vehicle:
+1. The search result text already lists Alt SKUs for each position (e.g. "Alt SKUs: 100226, 103202").
+2. Call product_description for each alt SKU to get its tyre name, then present them as alternatives.
+3. Use the same structured block format, labelling them as Front Tyre (Alt) / Rear Tyre (Alt).
+
 For all other follow-up questions (price, availability, comparisons, etc.) answer in plain natural language.
 Never invent or guess SKU codes or variant names — always retrieve them from the search results.
 Only call landing_price if the user explicitly asks for price or cost information.
@@ -80,6 +85,8 @@ def _dispatch(tool_name: str, args: dict) -> str:
 
     if tool_name == "product_description":
         details = product_details(int(args["sku"]))
+        if details is None:
+            return json.dumps({"error": f"SKU {args['sku']} not found in price list"})
         return json.dumps({
             "SKU": int(details["Material"]),
             "Description": details["Material Description"],
@@ -87,6 +94,8 @@ def _dispatch(tool_name: str, args: dict) -> str:
 
     if tool_name == "landing_price":
         details = product_details(int(args["sku"]))
+        if details is None:
+            return json.dumps({"error": f"SKU {args['sku']} not found in price list"})
         return json.dumps({
             "SKU": int(details["Material"]),
             "NBP": int(round(details["NBP"])),

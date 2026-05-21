@@ -57,10 +57,12 @@ def tyre_semantic_search(query: str, top_k: int = 10) -> list[dict]:
     return results
 
 
-def product_details(sku: int) -> Dict:
+def product_details(sku: int) -> Dict | None:
     df = pd.read_csv('price_list/nbp.csv')
     df['Material'] = pd.to_numeric(df['Material'], errors='coerce')
     row = df[df['Material'] == sku]
+    if row.empty:
+        return None
     NBP = float(row.iloc[0]['NBP Without Tax'].replace(',', ''))
     return {
         'Material': row.iloc[0]['Material'],
