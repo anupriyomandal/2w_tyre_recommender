@@ -18,11 +18,10 @@ function styleContent(text: string): string {
   let result = lines.join('\n')
 
   // "SKU 100227: Tyre Name" → orange SKU + blue tyre name via HTML spans
-  // Stop before " — INR" so price on the same line isn't swallowed into the blue span
   result = result.replace(
-    /SKU (\d+): ([^\n<]+?)(?=\s*—\s*INR|\s*$)/g,
+    /SKU (\d+): ([^\n<]+)/g,
     (_m, sku, name) =>
-      `SKU <span style="color:#F58220;font-weight:700">${sku}</span>: <span style="color:#0055AA">${name.trim()}</span>`
+      `SKU <span style="color:#F58220;font-weight:700">${sku}</span>: <span style="color:#0055AA;font-weight:600">${name.trim()}</span>`
   )
 
   // Standalone "SKU XXXXX" with no name after it
@@ -31,11 +30,11 @@ function styleContent(text: string): string {
     `SKU <span style="color:#F58220;font-weight:700">$1</span>`
   )
 
-  // Bold each variant name in "Applicable variants: A, B, C"
+  // Color each variant name red in "Applicable variants: A, B, C"
   result = result.replace(
     /^(Applicable variants:\s*)(.+)$/gim,
     (_m, prefix, variants) =>
-      prefix + variants.split(',').map((v: string) => `**${v.trim()}**`).join(', ')
+      prefix + variants.split(',').map((v: string) => `<span style="color:#DC2626;font-weight:600">${v.trim()}</span>`).join(', ')
   )
 
   // Ensure tyre lines are separated by blank lines so markdown breaks them into paragraphs
