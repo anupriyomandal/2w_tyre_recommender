@@ -4,6 +4,43 @@ import { AlertCircle } from 'lucide-react'
 import type { ChatMessage } from '@/types'
 import ToolCallCard from './ToolCallCard'
 
+// Preprocesses AI answer text to inject custom markers for SKU/tyre name colouring.
+// Uses backtick tokens (`#sku:XXXXX` / `#tyre:Name`) that the custom `code` component
+// below intercepts and renders with brand colours — no extra dependencies needed.
+function styleContent(text: string): string {
+  // Split lines that contain multiple SKUs onto separate lines
+  const lines = text.split('\n').map(line => {
+    if ((line.match(/SKU \d+:/g) ?? []).length <= 1) return line
+    const firstColon = line.indexOf(':', line.indexOf('SKU '))
+    const head = line.slice(0, firstColon + 1)
+    const tail = line.slice(firstColon + 1)
+    const parts = tail.split(/\s*-\s+(?=SKU \d+:)/)
+    return head + parts[0] + (parts.length > 1 ? '\n' + parts.slice(1).join('\n') : '')
+  })
+  let result = lines.join('\n')
+
+  // "SKU 100227: Tyre Name" → markers for orange SKU + blue tyre name
+  result = result.replace(
+    /SKU (\d+): ([^\n]+)/g,
+    (_m, sku, name) => `SKU \`#sku:${sku}\`: \`#tyre:${name.trim()}\``
+  )
+
+  // Remaining standalone "SKU XXXXX" references (no name after them)
+  result = result.replace(
+    /SKU (\d+)(?!`)/g,
+    (_m, sku) => `SKU \`#sku:${sku}\``
+  )
+
+  // Bold each variant name in "Applicable variants: A, B, C"
+  result = result.replace(
+    /^(Applicable variants:\s*)(.+)$/gim,
+    (_m, prefix, variants) =>
+      prefix + variants.split(',').map((v: string) => `**${v.trim()}**`).join(', ')
+  )
+
+  return result
+}
+
 interface Props {
   message: ChatMessage
 }
@@ -51,8 +88,22 @@ export default function MessageBubble({ message }: Props) {
           }}
         >
           <div className="md text-sm text-slate-800">
-            <ReactMarkdown remarkPlugins={[remarkGfm]}>
-              {message.content}
+            <ReactMarkdown
+              remarkPlugins={[remarkGfm]}
+              components={{
+                code({ children, className }) {
+                  const text = String(children)
+                  if (!className) {
+                    if (text.startsWith('#sku:'))
+                      return <span style={{ color: '#F58220', fontWeight: 700 }}>{text.slice(5)}</span>
+                    if (text.startsWith('#tyre:'))
+                      return <span style={{ color: '#0055AA' }}>{text.slice(6)}</span>
+                  }
+                  return <code className={className}>{children}</code>
+                },
+              }}
+            >
+              {styleContent(message.content)}
             </ReactMarkdown>
           </div>
         </div>
