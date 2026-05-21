@@ -72,6 +72,27 @@ def product_details(sku: int) -> Dict | None:
     }
 
 
+def tyre_size_search(size: str) -> list[dict]:
+    """Return all CEAT SKUs whose description contains the given tyre size."""
+    df = pd.read_csv('price_list/nbp.csv')
+    df['Material'] = pd.to_numeric(df['Material'], errors='coerce')
+    size_clean = size.strip()
+    mask = (
+        df['Material Description'].str.contains(size_clean, case=False, na=False, regex=False) &
+        ~df['Material Description'].str.upper().str.startswith('TUBE')
+    )
+    matches = df[mask].dropna(subset=['Material'])
+    results = []
+    for _, row in matches.iterrows():
+        nbp = float(str(row['NBP Without Tax']).replace(',', ''))
+        results.append({
+            'SKU': int(row['Material']),
+            'Description': str(row['Material Description']),
+            'Landing Price': int(round((nbp - 15) * 1.28)),
+        })
+    return results
+
+
 if __name__ == '__main__':
     print(product_details(100227))
     results = tyre_semantic_search("Hero Splendor tyres")

@@ -8,15 +8,15 @@ from rich.panel import Panel
 from rich.prompt import Prompt
 from rich.rule import Rule
 
-from functions import product_details, tyre_semantic_search
-from tools import landing_price_tool, semantic_search_tool, tyre_description_tool
+from functions import product_details, tyre_semantic_search, tyre_size_search
+from tools import landing_price_tool, semantic_search_tool, tyre_description_tool, tyre_size_search_tool
 
 load_dotenv()
 
 MODEL = "gpt-4.1"
 MAX_ITERATIONS = 10
 
-TOOLS = [semantic_search_tool, tyre_description_tool, landing_price_tool]
+TOOLS = [semantic_search_tool, tyre_description_tool, landing_price_tool, tyre_size_search_tool]
 
 SYSTEM_PROMPT = """You are a helpful and friendly 2-wheeler tyre recommendation assistant for CEAT tyres.
 Always respond in a natural, conversational tone — like a knowledgeable tyre expert talking to a customer.
@@ -56,6 +56,11 @@ When a user asks about variants, models, or any vehicle catalogue information:
 2. Extract and list only the variants that actually appear in the catalogue results.
 3. Do not add variants from your own knowledge — only report what the catalogue contains.
 
+When a user asks what tyres are available in a specific size (e.g. "2.75-18", "80/100-17", "100/90-17"):
+1. Call tyre_size_search with the size string to get all matching CEAT SKUs.
+2. Present the results as a list showing SKU (orange), tyre name (blue), and landing price (green).
+3. If the user also mentions a vehicle, call tyre_semantic_search first to get the recommended SKU, then offer the size search results as the full range available in that size.
+
 When a user asks for alternate tyres or "other options" for a vehicle:
 1. The search result text already lists Alt SKUs for each position (e.g. "Alt SKUs: 100226, 103202").
 2. Call product_description for each alt SKU to get its tyre name, then present them as alternatives.
@@ -92,6 +97,10 @@ def _dispatch(tool_name: str, args: dict) -> str:
             "Description": details["Material Description"],
         })
 
+    if tool_name == "tyre_size_search":
+        results = tyre_size_search(size=args["size"])
+        return json.dumps(results, ensure_ascii=False)
+
     if tool_name == "landing_price":
         details = product_details(int(args["sku"]))
         if details is None:
@@ -114,6 +123,8 @@ def _action_label(name: str, args: dict, sku_names: dict) -> str:
         sku = args["sku"]
         suffix = f' ([italic]{sku_names[sku]}[/italic])' if sku in sku_names else ""
         return f'Calculating landing price for SKU [bold]{sku}[/bold]{suffix}'
+    if name == "tyre_size_search":
+        return f'Searching all CEAT tyres in size [bold]{args["size"]}[/bold]'
     return f'Calling [bold]{name}[/bold]'
 
 

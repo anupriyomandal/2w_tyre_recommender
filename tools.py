@@ -9,6 +9,17 @@ class GetLandingPriceArgs(BaseModel):
     sku: str = Field(..., description="The SKU Code of the tyre for which the Tyre Landing Price is needed. Eg: 100227")
 
 
+class GetTyreSizeSearchArgs(BaseModel):
+    size: str = Field(
+        ...,
+        description=(
+            "The tyre size to search for. Accepts conventional (e.g. '2.75-18', '3.00-17') "
+            "or metric formats (e.g. '80/100-18', '100/90-17'). "
+            "Use only the size portion, not the full description."
+        ),
+    )
+
+
 class GetSemanticQueryArgs(BaseModel):
     query: str = Field(
         ...,
@@ -19,6 +30,20 @@ class GetSemanticQueryArgs(BaseModel):
         ),
     )
 
+
+tyre_size_search_tool = {
+    'type': 'function',
+    'function': {
+        'name': 'tyre_size_search',
+        'description': (
+            'Finds all CEAT tyre SKUs available in a given size. '
+            'Use when the user asks what tyres are available in a specific size '
+            '(e.g. "2.75-18", "80/100-18") regardless of vehicle. '
+            'Returns SKU, full description, and landing price for each match.'
+        ),
+        'parameters': GetTyreSizeSearchArgs.model_json_schema(),
+    },
+}
 
 landing_price_tool = {
     'type': 'function',

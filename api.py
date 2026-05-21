@@ -52,6 +52,8 @@ def _plain_label(name: str, args: dict, sku_names: dict) -> str:
         sku = str(args["sku"])
         suffix = f' ({sku_names[sku]})' if sku in sku_names else ""
         return f'Calculating landing price for SKU {sku}{suffix}'
+    if name == "tyre_size_search":
+        return f'Searching all CEAT tyres in size {args["size"]}'
     return f'Calling {name}'
 
 
