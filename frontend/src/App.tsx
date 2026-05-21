@@ -158,6 +158,7 @@ export default function App() {
         onSuggestion={sendMessage}
       />
       <ChatInput onSend={sendMessage} disabled={isStreaming} />
+      <footer className="text-center text-xs text-gray-400 py-2">Made by Anupriyo Mandal</footer>
     </div>
   )
 }
