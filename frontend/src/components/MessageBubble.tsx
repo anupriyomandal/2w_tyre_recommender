@@ -18,8 +18,9 @@ function styleContent(text: string): string {
   let result = lines.join('\n')
 
   // "SKU 100227: Tyre Name" → orange SKU + blue tyre name via HTML spans
+  // Stop before " — INR" so price on the same line isn't swallowed into the blue span
   result = result.replace(
-    /SKU (\d+): ([^\n<]+)/g,
+    /SKU (\d+): ([^\n<]+?)(?=\s*—\s*INR|\s*$)/g,
     (_m, sku, name) =>
       `SKU <span style="color:#F58220;font-weight:700">${sku}</span>: <span style="color:#0055AA">${name.trim()}</span>`
   )
@@ -41,6 +42,15 @@ function styleContent(text: string): string {
   result = result.replace(
     /(<\/span>)\n(?=(?:Front|Rear|Applicable))/g,
     '$1\n\n'
+  )
+
+  // Price amounts in green, always as integers
+  result = result.replace(
+    /INR\s+(\d[\d,]*(?:\.\d+)?)/g,
+    (_m, amount) => {
+      const intVal = Math.round(parseFloat(amount.replace(/,/g, '')))
+      return `INR <span style="color:#16A34A;font-weight:600">${intVal.toLocaleString('en-IN')}</span>`
+    }
   )
 
   return result

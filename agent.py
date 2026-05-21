@@ -52,7 +52,10 @@ When a user asks about variants, models, or any vehicle catalogue information:
 For all other follow-up questions (price, availability, comparisons, etc.) answer in plain natural language.
 Never invent or guess SKU codes or variant names — always retrieve them from the search results.
 Only call landing_price if the user explicitly asks for price or cost information.
-Always write prices as "INR <amount>" — never use the rupee symbol."""
+When presenting price information, always show each tyre on its own line in this exact format:
+  SKU <sku>: <tyre name>
+  Landing Price: INR <integer>
+Always write prices as "INR <integer>" — never use the rupee symbol, never show decimal points, always round to the nearest whole number."""
 
 
 console = Console()
@@ -79,8 +82,8 @@ def _dispatch(tool_name: str, args: dict) -> str:
         details = product_details(int(args["sku"]))
         return json.dumps({
             "SKU": int(details["Material"]),
-            "NBP": details["NBP"],
-            "Landing Price": round(details["Landing Price"], 2),
+            "NBP": int(round(details["NBP"])),
+            "Landing Price": int(round(details["Landing Price"])),
         })
 
     return json.dumps({"error": f"unknown tool: {tool_name}"})
