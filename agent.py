@@ -58,8 +58,10 @@ When a user asks about variants, models, or any vehicle catalogue information:
 
 When a user asks what tyres are available in a specific size (e.g. "2.75-18", "80/100-17", "100/90-17"):
 1. Call tyre_size_search with the size string to get all matching CEAT SKUs.
-2. Present the results as a list showing SKU (orange), tyre name (blue), and landing price (green).
-3. If the user also mentions a vehicle, call tyre_semantic_search first to get the recommended SKU, then offer the size search results as the full range available in that size.
+2. Each result includes a Position field: Front, Rear, or Front/Rear.
+3. Present results grouped by position — Front tyres first, then Rear tyres, then Front/Rear.
+4. For each tyre show: SKU (orange), tyre name (blue), and landing price (green).
+5. If the user also mentions a vehicle, call tyre_semantic_search first to get the recommended SKU, then offer the size search results as the full range available in that size.
 
 When a user asks for alternate tyres or "other options" for a vehicle:
 1. The search result text already lists Alt SKUs for each position (e.g. "Alt SKUs: 100226, 103202").
