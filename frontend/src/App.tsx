@@ -4,7 +4,7 @@ import Header from './components/Header'
 import MessageList from './components/MessageList'
 import ChatInput from './components/ChatInput'
 
-const API_BASE = 'http://127.0.0.1:8002'
+const API_BASE = import.meta.env.VITE_API_URL || 'http://127.0.0.1:8002'
 
 export default function App() {
   const [messages, setMessages] = useState<ChatMessage[]>([])
