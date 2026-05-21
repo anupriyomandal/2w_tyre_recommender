@@ -26,6 +26,11 @@ app.add_middleware(
 )
 
 _client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+
+
+@app.get("/")
+async def health():
+    return {"status": "ok"}
 MODEL = "gpt-4.1"
 MAX_ITERATIONS = 10
 
